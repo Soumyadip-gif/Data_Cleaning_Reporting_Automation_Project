@@ -1,0 +1,1026 @@
+Order ID,Customer Name,Date,Region,Category,Product,Quantity,Price,Sales,Email
+1528,Soumya Das,2026-05-07,North,Furniture,Sofa,6,18000,108000,soumya.das@gmail.com
+1360,Arjun Kumar,2026-03-21,West,Stationery,Notebook,-4,80,80,arjun.kumar@gmail.com
+1448,Puja Roy,2026-04-06,South,Stationery,File,5,35,175,puja.roy@gmail.com
+1032,Ananya Paul,2026-01-18,East,Stationery,Notebook,6,80,480,ananya.paul@gmail.com
+1622,Amit Ghosh,2026-04-19,East,Electronics,Headphones,9,1800,16200,amit.ghosh@gmail.com
+1591, Amit Dutta ,2026-01-06,West,Food,rice,2,60,120,amit.dutta@gmail.com
+1906,Ankit Kumar,2026-05-03,West,Stationery,Notebook,7,80,560,
+1738,Ananya Roy,2026-02-22,South,Clothing,Shoes,6,2200,13200,ananya.roy@gmail.com
+1077, Sneha Dutta ,2026-03-14,North,Furniture,Sofa,9,18000,162000,sneha.dutta@gmail.com
+1949,Arjun Sen,2026-01-26,North,Electronics,Monitor,2,12000,24000,arjun.sen@gmail.com
+1433, Abhishek Singh ,2026-01-18,West,Electronics,Mobile,6,25000,150000,abhishek.singh@gmail.com
+1071,Sayan Singh,2026-04-26,North,Stationery,Pencil,9,10,90,sayan.singh@gmail.com
+1681,Ankit Paul,2026-06-19,South,Stationery,file,7,35,245,ankit.paul@gmail.com
+1102,Priya Dutta,2026-06-13,South,Stationery,Pen,4,20,80,priya.dutta@gmail.com
+1846,Ananya Kumar,2026-02-19,North,Electronics,Headphones,9,1800,16200,ananya.kumar@gmail.com
+1657,Ravi Sen,2026-01-08,South,Stationery,Pen,3,20,,ravi.sen@gmail.com
+1311, Ankit Banerjee ,2026-01-19,South,Stationery,File,9,35,,
+1345,Abhishek Dutta,2026-01-31,North,Furniture,Chair,7,1800,12600,abhishek.dutta@gmail.com
+1838,Riya Das,2026-02-06,East,Clothing,Jeans,2,1800,3600, riya.das@gmail.com 
+1175,Rahul Banerjee,2026-01-29,West,Food,Sugar,8,55,440,rahul.banerjee@gmail.com
+1097,Meena Dutta,2026-05-25,West,Stationery,Marker,10,40,,meena.dutta@gmail.com
+1823,Riya Sharma,2026-04-18,South,Food,Tea,5,250,,riya.sharma@gmail.com
+1599,Sayan Kumar,2026-01-20,South,Food,Biscuits,10,50,500,sayan.kumar@gmail.com
+1219,Ravi Das,2026-06-21,North,Clothing,T-Shirt,5,800,4000,
+1421,Tanya Kumar,2026/06/13,West,Stationery,File,8,35,280,tanya.kumar@gmail.com
+1209,Moumita Banerjee,2026-01-11,South,Food,Tea,4,250,1000,moumita.banerjee@gmail.com
+1775,Meena Dutta,2026-06-20,South,Stationery,Pencil,-4,10,60,meena.dutta@gmail.com
+1291,Abhishek Paul,2026-03-03,West,Electronics,Tablet,9,30000,270000,abhishek.paul@gmail.com
+1890,Arjun Sen,2026-04-13,West,Electronics,Headphones,9,1800,16200,
+1671,Vikash Paul,2026-01-11,West,Furniture,Shelf,10,3500,35000,vikash.paul@gmail.com
+1904,Priya Banerjee,2026-06-29,West,Furniture,Table,5,4500,22500,priya.banerjee@gmail.com
+1412,Karan Paul,2026-01-25,West,Electronics,Monitor,1,12000,12000,karan.paul@gmail.com
+1637,Tanya Singh,,North,Electronics,Mobile,6,25000,150000,tanya.singh@gmail.com
+1330,Ankit Sharma,2026-06-15,East,Clothing,Jacket,6,2500,15000,ankit.sharma@gmail.com
+1738,Ananya Roy,2026-02-22,South,Clothing,Shoes,6,2200,13200,ananya.roy@gmail.com
+1763,Riya Roy,2026-05-30,South,Food,Biscuits,8,50,400,riya.roy@gmail.com
+1491,Arjun Sen,,East,Electronics,Laptop,3,55000,165000,arjun.sen@gmail.com
+1351,Amit Kumar,2026/03/28,North,Food,Sugar,-4,55,110,amit.kumar@gmail.com
+1501, Ankit Das ,2026-06-08,West,Electronics,Monitor,7,12000,84000,ankit.das@gmail.com
+1308,Puja Paul,2026-05-19,North,Stationery,File,8,35,,puja.paul@gmail.com
+1854,Moumita Banerjee,2026-05-20,East,Food,Oil,7,150,1050,moumita.banerjee@gmail.com
+1352,Sneha Das,2026-05-08,East,Stationery,Notebook,8,80,640,sneha.das@gmail.com
+1644,Ravi Roy,2026-03-27,East,Food,Tea,5,,1250, ravi.roy@gmail.com 
+1440,Karan Sharma,2026/03/26,South,Electronics,Monitor,7,12000,84000,karan.sharma@gmail.com
+1820,Neha Dutta,2026-03-24,south,Clothing,Jacket,3,2500,7500, neha.dutta@gmail.com 
+1834,Tanya Paul,2026-06-09,South,Stationery,Notebook,-5,80,640,tanya.paul@gmail.com
+1519,Sneha Roy,2026-06-11,North,Clothing,Jacket,4,,,sneha.roy@gmail.com
+1555,Moumita Kumar,2026-01-10,NORTH,Furniture,Chair,1,1800,1800,moumita.kumar@gmail.com
+1290, Meena Ghosh ,2026-05-05,West,Food,Tea,3,250,750,meena.ghosh@gmail.com
+1293,Ankit Roy,2026-05-17,West,Clothing,Shoes,1,2200,2200,ankit.roy@gmail.com
+1214, Riya Das ,2026-02-19,East,Stationery,Pen,3,20,60,riya.das@gmail.com
+1967, Abhishek Ghosh ,invalid-date,West,Clothing,Jacket,8,2500,20000,abhishek.ghosh@gmail.com
+1060,Tanya Singh,2026-01-21,North,Furniture,Desk,2,6000,12000,tanya.singh@gmail.com
+1693,Riya Dutta,2026-02-12,East,Clothing,Jacket,2,2500,5000,riya.dutta@gmail.com
+1322,Riya Singh,2026-04-27,North,Electronics,Headphones,-1,1800,9000,riya.singh@gmail.com
+1011,Sayan Ghosh,2026-03-05,North,Electronics,Laptop,1,55000,55000,sayan.ghosh@gmail.com
+1332,Soumya Singh,2026-06-04,East,Electronics,Monitor,7,12000,84000,soumya.singh@gmail.com
+1335,Rahul Roy,2026-03-18,East,Furniture,Table,1,4500,4500,rahul.roy@gmail.com
+1919,Puja Sen,2026-01-29,SOUTH,Furniture,Sofa,3,18000,54000,puja.sen@gmail.com
+1087,Ankit Sen,2026-02-14,West,Furniture,Table,2,4500,9000,ankit.sen@gmail.com
+1333,Puja Singh,2026-02-11,East,Electronics,Mobile,8,25000,200000,puja.singh@gmail.com
+1744,Vikash Paul,2026-03-06,North,Clothing,Jacket,5,2500,12500,vikash.paul@gmail.com
+1451,Abhishek Paul,2026-01-07,South,Food,Rice,1,60,60,abhishek.paul@gmail.com
+1469,Sneha Roy,2026-05-31,East,Clothing,Jacket,2,2500,5000,sneha.roy@gmail.com
+1306,Riya Sen,2026/01/16,East,Furniture,Sofa,5,18000,90000,riya.sen@gmail.com
+1031,Vikash Sharma,2026-05-28,East,Clothing,Shirt,2,1200,2400,vikash.sharma@gmail.com
+1559,Priya Dutta,,North,Food,Tea,10,250,2500,priya.dutta@gmail.com
+1406,Ravi Das,2026-01-03,west,Electronics,Laptop,8,55000,440000,ravi.das@gmail.com
+1055, Meena Banerjee ,2026-06-15,South,Electronics,Monitor,9,12000,108000,meena.banerjee@gmail.com
+1024,Amit Das,2026/02/27,East,Stationery,Pencil,6,10,60,amit.das@gmail.com
+1762,Tanya Sharma,2026-06-15,South,Clothing,Jacket,10,2500,25000,tanya.sharma@gmail.com
+1482,Neha Singh,2026-03-27,east,Electronics,Headphones,3,1800,5400,neha.singh@gmail.com
+1004,Ananya Das,2026-04-29,South,Electronics,Monitor,3,,36000,ananya.das@gmail.com
+1232,Vikash Kumar,2026-04-07,West,Stationery,Marker,-1,40,360,vikash.kumar@gmail.com
+1356,Arjun Paul,2026-01-30,SOUTH,Clothing,Shirt,10,1200,,arjun.paul@gmail.com
+1674,Meena Ghosh,2026-03-23,South,Clothing,Jacket,2,2500,5000,meena.ghosh@gmail.com
+1757,Ravi Sharma,2026-01-18,North,Clothing,Jeans,2,1800,,ravi.sharma@gmail.com
+1844,Rohit Das,2026-06-14,West,Furniture,Desk,3,6000,18000,
+1668,Sneha Banerjee,2026-03-01,West,Stationery,Marker,9,40,360,sneha.banerjee@gmail.com
+1216,Ravi Roy,2026-05-03,East,Clothing,Jacket,5,2500,12500,ravi.roy@gmail.com
+1635,Ankit Banerjee,2026-04-09,East,Food,Oil,3,150,450,
+1319,Sneha Singh,2026-04-18,West,Electronics,Tablet,3,30000,90000,sneha.singh@gmail.com
+1987,Ananya Kumar,2026-05-03,West,Furniture,desk,5,6000,30000,ananya.kumar@gmail.com
+1353, Sayan Das ,2026/05/29,North,Electronics,Tablet,10,30000,300000,sayan.das@gmail.com
+1716,Abhishek Roy,2026-04-09,south,Furniture,Desk,8,6000,48000, abhishek.roy@gmail.com 
+1395,Karan Sharma,2026-01-31,South,Electronics,Tablet,-3,30000,300000,karan.sharma@gmail.com
+1199,Ravi Singh,2026-01-25,North,Stationery,Pencil,8,,80,ravi.singh@gmail.com
+1595,Tanya Dutta,2026/01/27,north,Clothing,Shirt,8,1200,9600,tanya.dutta@gmail.com
+1864, Puja Singh ,2026-01-12,East,Stationery,Notebook,4,80,320,puja.singh@gmail.com
+1925,Ravi Sen,2026-06-04,West,Stationery,Pen,9,20,180,ravi.sen@gmail.com
+1040,Ananya Das,2026-03-10,south,Clothing,Jacket,2,2500,5000,ananya.das@gmail.com
+1791,Sneha Singh,2026-01-22,east,Stationery,File,9,35,315,
+1315,Tanya Banerjee,2026-06-10,North,Electronics,Monitor,3,12000,36000,tanya.banerjee@gmail.com
+1762,Tanya Sharma,2026-06-15,South,Clothing,Jacket,10,2500,25000,tanya.sharma@gmail.com
+1581,Neha Roy,invalid-date,North,Stationery,Notebook,4,80,320,neha.roy@gmail.com
+1067,Priya Paul,2026-04-28,North,Food,Rice,-3,60,420,priya.paul@gmail.com
+1718,Amit Ghosh,2026-06-05,West,Electronics,Tablet,2,30000,60000,
+1068,Sneha Das,2026-05-31,WEST,Food,Rice,7,60,420,sneha.das@gmail.com
+1295,Puja Dutta,2026-06-19,South,Furniture,Desk,7,6000,,puja.dutta@gmail.com
+1922,Sayan Das,invalid-date,South,Electronics,Headphones,8,1800,14400,sayan.das@gmail.com
+1465,Rahul Das,2026-01-12,East,Stationery,Pen,7,20,140,rahul.das@gmail.com
+1108, Rohit Ghosh ,2026-05-25,North,Electronics,Monitor,8,12000,96000,rohit.ghosh@gmail.com
+1630,Moumita Paul,2026-02-11,South,Electronics,Tablet,1,,30000,moumita.paul@gmail.com
+1577,Priya Paul,2026-06-26,NORTH,Furniture,Chair,3,1800,5400,priya.paul@gmail.com
+1255,Moumita Kumar,2026-01-19,north,Furniture,Sofa,1,18000,18000,moumita.kumar@gmail.com
+1724,Sneha Kumar,2026-03-12,West,Stationery,File,6,35,210,
+1930,Sayan Sen,2026-01-16,East,Food,Oil,6,,900,sayan.sen@gmail.com
+1540, Tanya Kumar ,2026-04-28,East,Food,sugar,5,55,275,tanya.kumar@gmail.com
+1916,Ravi Das,2026-01-03,North,Food,Sugar,10,55,550,ravi.das@gmail.com
+1526, Karan Banerjee ,2026-04-12,East,Food,sugar,7,55,385,karan.banerjee@gmail.com
+1544,Ankit Ghosh,2026-05-09,East,Electronics,Laptop,5,55000,275000,ankit.ghosh@gmail.com
+1755,Moumita Ghosh,2026-06-15,South,Food,Oil,4,150,600,moumita.ghosh@gmail.com
+1101, Sayan Ghosh ,2026-03-16,South,Stationery,Pencil,7,10,70,sayan.ghosh@gmail.com
+1089, Amit Roy ,2026-06-14,East,Furniture,Desk,10,6000,60000,amit.roy@gmail.com
+1064,Ankit Banerjee,2026/01/18,West,Food,Rice,3,60,180,ankit.banerjee@gmail.com
+1849,Sayan Singh,2026-02-06,North,Clothing,Shirt,2,1200,2400,sayan.singh@gmail.com
+1894, Vikash Sharma ,2026-01-30,North,Electronics,Tablet,6,30000,180000,
+1140,Priya Kumar,2026-06-29,South,Electronics,Mobile,7,25000,175000,priya.kumar@gmail.com
+1604,Rahul Singh,2026-05-06,West,Food,Rice,10,60,600,rahul.singh@gmail.com
+1621,Tanya Paul,2026-03-30,East,Electronics,Mobile,3,25000,75000,tanya.paul@gmail.com
+1543,Abhishek Roy,2026-06-09,East, Electronics ,Headphones,3,1800,5400,abhishek.roy@gmail.com
+1495,Ankit Ghosh,2026-04-10,South,Electronics,Laptop,3,55000,165000,ankit.ghosh@gmail.com
+1590,Rahul Dutta,2026-05-09,North,Clothing,T-Shirt,1,800,800,rahul.dutta@gmail.com
+1110,Priya Kumar,2026-02-16,West,Electronics,Laptop,8,55000,440000,priya.kumar@gmail.com
+1963,Ananya Paul,2026-05-11,South,Stationery,Pen,2,20,40,ananya.paul@gmail.com
+1248,Riya Das,2026-04-08,East,Electronics,Monitor,-4,12000,96000,riya.das@gmail.com
+1923,Moumita Paul,2026-01-11,South,Stationery,Notebook,2,80,160,moumita.paul@gmail.com
+1698,Moumita Kumar,2026-06-12,East,Furniture,Table,8,4500,36000,moumita.kumar@gmail.com
+1487,Ananya Sen,2026-06-16,North,Electronics,Mobile,4,25000,100000,ananya.sen@gmail.com
+1137,Amit Banerjee,2026-02-26,North,Furniture,Desk,3,6000,18000,amit.banerjee@gmail.com
+1933,Abhishek Dutta,2026-01-26,East,Clothing,Shirt,1,1200,1200,
+1689,Karan Sharma,2026-02-18,North,Furniture,Sofa,8,,144000,karan.sharma@gmail.com
+1759,Vikash Banerjee,2026-05-05,East,Electronics,Mobile,2,,50000,vikash.banerjee@gmail.com
+1159,Ankit Das,2026-04-06,West,Electronics,Laptop,4,55000,220000,ankit.das@gmail.com
+1494,Riya Paul,2026-06-03,East,Electronics,Monitor,3,12000,36000,riya.paul@gmail.com
+1502,Neha Sen,2026-01-20,North,Food,Tea,-3,250,1000,neha.sen@gmail.com
+1683,Sayan Paul,2026-06-28,West,Electronics,Headphones,10,1800,18000,sayan.paul@gmail.com
+1974,Abhishek Paul,2026-05-08,East,Food,Biscuits,6,50,300,abhishek.paul@gmail.com
+1257,Arjun Banerjee,2026-04-07,South,Furniture,Sofa,10,18000,180000,arjun.banerjee@gmail.com
+1735, Karan Singh ,2026-03-10,South,Electronics,Laptop,5,55000,275000,
+1858,Neha Sharma,invalid-date,East,Clothing,Shirt,1,1200,1200,neha.sharma@gmail.com
+1960,Ravi Dutta,2026-01-20,South,Clothing,jacket,6,2500,15000,ravi.dutta@gmail.com
+1618,Sayan Paul,2026-03-19,North,Furniture,Chair,8,1800,14400,sayan.paul@gmail.com
+1984,Ravi Das,2026-02-07,South,Clothing,Shirt,10,,12000,ravi.das@gmail.com
+1902,Moumita Paul,2026-04-29,South,Stationery,Marker,-3,40,120,moumita.paul@gmail.com
+1211, Rahul Singh ,2026-01-10,EAST,Furniture,Chair,3,1800,,rahul.singh@gmail.com
+1169,Karan Sharma,2026-03-08,east,Furniture,Chair,1,1800,1800,karan.sharma@gmail.com
+1940,Abhishek Roy,2026-02-04,South,Furniture,Sofa,1,18000,,abhishek.roy@gmail.com
+1441,Soumya Sharma,2026-02-22,South,Electronics,Headphones,2,1800,3600,soumya.sharma@gmail.com
+1372,Rahul Sen,2026-06-18,West,Electronics,Tablet,3,30000,90000,
+1546,Sayan Paul,2026-02-05,North, Furniture ,Shelf,3,3500,10500,sayan.paul@gmail.com
+1056,Puja Banerjee,2026-04-17,South,Furniture,Sofa,9,18000,162000,puja.banerjee@gmail.com
+1121,Sayan Paul,2026-05-22,West,Electronics,Laptop,2,55000,110000,sayan.paul@gmail.com
+1617,Puja Roy,2026-04-12,South,Furniture,Chair,5,,9000,puja.roy@gmail.com
+1026,Abhishek Roy,2026-04-26,West,Stationery,File,9,35,315,abhishek.roy@gmail.com
+1073,Amit Banerjee,2026-03-31,South,Stationery,Pen,6,20,120,amit.banerjee@gmail.com
+1533,Tanya Sharma,2026-01-04,South,Clothing,T-Shirt,2,800,1600,tanya.sharma@gmail.com
+1045,Ananya Roy,2026-02-18,West,Furniture,Table,8,4500,36000,ananya.roy@gmail.com
+1297,Puja Dutta,2026-01-09,East,Clothing,Shoes,5,2200,11000,puja.dutta@gmail.com
+1200,Moumita Das,2026-01-31,South,Furniture,Chair,5,1800,9000,moumita.das@gmail.com
+1754,Moumita Paul,2026-06-06,South,Furniture,Sofa,5,18000,90000,moumita.paul@gmail.com
+1794,Sneha Banerjee,2026-06-01,North,Furniture,Chair,3,1800,5400, sneha.banerjee@gmail.com 
+1486,Abhishek Dutta,2026-03-19,East,Stationery,Notebook,9,80,720,abhishek.dutta@gmail.com
+1210,Meena Dutta,,North,Electronics,Tablet,4,30000,120000,meena.dutta@gmail.com
+1266,Meena Singh,invalid-date,North,Furniture,Shelf,2,3500,,meena.singh@gmail.com
+1378, Rahul Sharma ,2026-01-30,West,Electronics,Headphones,9,1800,16200,rahul.sharma@gmail.com
+1895,Meena Das,2026-03-23,NORTH,Food,Sugar,1,55,55,meena.das@gmail.com
+1789,Meena Roy,,SOUTH,Clothing,Jacket,9,2500,22500,meena.roy@gmail.com
+1529,Sayan Sharma,2026-03-28,north,Furniture,Sofa,3,18000,54000,sayan.sharma@gmail.com
+1452,Priya Ghosh,2026-03-01,West,Food,Rice,6,60,360,priya.ghosh@gmail.com
+1596,Sayan Sharma,2026-01-31,East,Clothing,Shoes,7,2200,15400,sayan.sharma@gmail.com
+1746,Abhishek Singh,2026-06-28,East,Stationery,Pencil,1,10,10, abhishek.singh@gmail.com 
+1966, Sneha Das ,2026-02-19,East,Furniture,Sofa,3,18000,54000,
+1527, Vikash Ghosh ,2026-05-24,South,Food,Oil,8,150,1200,vikash.ghosh@gmail.com
+1307, Sneha Singh ,,EAST,Furniture,Table,-4,4500,45000, sneha.singh@gmail.com 
+1320,Tanya Singh,2026-01-04,East,Furniture,Table,10,4500,,tanya.singh@gmail.com
+1061,Puja Singh,2026-04-16,South,Electronics,Monitor,4,12000,48000,puja.singh@gmail.com
+1483,Ankit Banerjee,2026-01-11,North,Furniture,Chair,2,1800,3600,ankit.banerjee@gmail.com
+1855,Ankit Kumar,2026-06-06,East,Food,Sugar,5,55,275,ankit.kumar@gmail.com
+1616,Meena Dutta,2026-06-06,North,Clothing,Shirt,6,1200,7200,
+1542,Ravi Ghosh,,West,Stationery,Pen,5,20,100,ravi.ghosh@gmail.com
+1429,Puja Singh,2026-06-04,South,Clothing,Jeans,5,1800,9000,puja.singh@gmail.com
+1185, Karan Singh ,2026-05-01,North,Food,Biscuits,10,50,500,karan.singh@gmail.com
+1882,Sneha Singh,2026-04-30,West,Electronics,Mobile,3,25000,,sneha.singh@gmail.com
+1983,Tanya Roy,2026-02-20,North,Furniture,Shelf,-2,3500,7000,tanya.roy@gmail.com
+1600, Riya Sharma ,2026-02-25,South,Stationery,File,4,35,140,riya.sharma@gmail.com
+1907,Riya Das,,West,Clothing,Shirt,10,1200,12000,riya.das@gmail.com
+1779,Tanya Roy,2026-02-04,North,Clothing,T-Shirt,1,800,800,tanya.roy@gmail.com
+1262, Vikash Das ,2026-03-04,South, Clothing ,Jacket,7,2500,17500,vikash.das@gmail.com
+1343,Sneha Roy,2026-04-08,East,Stationery,Pen,8,20,160,sneha.roy@gmail.com
+1523,Riya Dutta,2026-02-01,east,Stationery,Pencil,1,10,10,riya.dutta@gmail.com
+1238,Puja Singh,2026-06-11,South,Furniture,Chair,3,1800,5400,puja.singh@gmail.com
+1111,Sneha Roy,2026-05-16,West,Stationery,Pen,6,20,120,sneha.roy@gmail.com
+1498,Arjun Sharma,,South,Furniture,Table,4,4500,18000,arjun.sharma@gmail.com
+1517,Arjun Dutta,2026-03-10,East,Furniture,Chair,6,,10800,arjun.dutta@gmail.com
+1362,Puja Banerjee,2026-04-27,East,Stationery,Notebook,6,80,480, puja.banerjee@gmail.com 
+1430,Abhishek Banerjee,2026-01-24,North,Stationery,File,8,35,280,abhishek.banerjee@gmail.com
+1974,Abhishek Paul,2026-05-08,East,Food,Biscuits,6,50,300,abhishek.paul@gmail.com
+1278,Amit Sharma,2026-04-17,North,Stationery,Marker,6,40,240,amit.sharma@gmail.com
+1261,Amit Das,2026-03-16,West,Stationery,Pencil,9,10,90,amit.das@gmail.com
+1833,Moumita Sen,2026-04-09,North,Food,Tea,7,250,1750,moumita.sen@gmail.com
+1797,Ananya Kumar,2026/01/26,East,Electronics,Monitor,10,12000,120000,ananya.kumar@gmail.com
+1645,Soumya Das,2026-03-17,east,Furniture,Sofa,1,18000,18000,soumya.das@gmail.com
+1405,Tanya Paul,2026-06-16,North,Clothing,Jacket,9,2500,22500,tanya.paul@gmail.com
+1843,Amit Sen,,South,Furniture,Shelf,4,3500,14000,amit.sen@gmail.com
+1836,Riya Sharma,2026-03-07,West,Food,Biscuits,10,50,500,riya.sharma@gmail.com
+1138, Abhishek Dutta ,2026-04-19,South,Food,Sugar,1,55,55,abhishek.dutta@gmail.com
+1535,Riya Kumar,2026-05-02,North,Clothing,T-Shirt,8,800,,riya.kumar@gmail.com
+1496,Puja Banerjee,2026-02-05,East,Furniture,Desk,8,6000,48000,puja.banerjee@gmail.com
+1245,Ravi Das,2026-05-24,West,Clothing,T-Shirt,9,800,7200,ravi.das@gmail.com
+1771,Meena Das,2026-05-10,East,Furniture,Chair,6,,10800,
+1531, Priya Sen ,2026-03-19,North,Electronics,Laptop,5,55000,275000,priya.sen@gmail.com
+1573,Rohit Dutta,2026-02-25,East,Stationery,Pen,6,20,120,rohit.dutta@gmail.com
+1828,Tanya Ghosh,2026-01-25,West, Electronics ,Monitor,9,12000,108000, tanya.ghosh@gmail.com 
+1412,Karan Paul,2026-01-25,West,Electronics,Monitor,1,12000,12000,karan.paul@gmail.com
+1717,Tanya Roy,2026-03-28,East,Electronics,Laptop,7,55000,385000,tanya.roy@gmail.com
+1437, Amit Kumar ,2026-01-12,East,Clothing,Jacket,4,2500,10000,amit.kumar@gmail.com
+1860,Sneha Ghosh,2026-02-12,West,Clothing,Shoes,10,2200,22000,sneha.ghosh@gmail.com
+1809, Neha Banerjee ,2026-02-23,West,Stationery,File,2,35,70,neha.banerjee@gmail.com
+1372,Rahul Sen,2026-06-18,West,Electronics,Tablet,3,30000,90000,
+1079,Ankit Dutta,2026-01-29,West,Electronics,Tablet,4,30000,120000,ankit.dutta@gmail.com
+1030,Priya Sharma,2026-02-21,South,Food,Oil,2,150,300,priya.sharma@gmail.com
+1381,Moumita Dutta,2026-01-10,East,Furniture,Desk,10,6000,60000,moumita.dutta@gmail.com
+1281, Sneha Das ,2026-04-16,West,Electronics,Laptop,8,55000,440000,sneha.das@gmail.com
+1300,Rohit Sen,,East,Furniture,Chair,3,1800,5400,rohit.sen@gmail.com
+1663,Ravi Paul,2026-05-20,North,Stationery,Marker,2,40,80,ravi.paul@gmail.com
+1656,Arjun Roy,,North,Food,Rice,3,60,180,arjun.roy@gmail.com
+1310, Vikash Das ,2026-04-10,West,Electronics,Mobile,-1,25000,25000,vikash.das@gmail.com
+1166,Arjun Banerjee,2026-04-07,South,Stationery,Pencil,6,10,,arjun.banerjee@gmail.com
+1579,Ravi Singh,2026-03-24,West,Electronics,Monitor,10,12000,120000,ravi.singh@gmail.com
+1179,Sayan Sen,2026-03-03,North,Food,Tea,9,250,2250,sayan.sen@gmail.com
+1741,Ravi Paul,2026-06-28,North,Furniture,Chair,7,1800,12600,ravi.paul@gmail.com
+1066,Priya Sharma,2026-03-19,South,Clothing,Jacket,10,2500,25000,priya.sharma@gmail.com
+1142,Meena Dutta,2026-05-25,South,Food,Biscuits,-2,50,,meena.dutta@gmail.com
+1468,Arjun Sen,2026-02-01,East,Furniture,Chair,10,1800,18000,arjun.sen@gmail.com
+1389,Ravi Sharma,2026-05-16,East,Stationery,Marker,6,40,240,ravi.sharma@gmail.com
+1850,Rohit Paul,2026-05-27,South,Electronics,Mobile,5,25000,125000,rohit.paul@gmail.com
+1426,Puja Paul,2026/06/26,West,Food,Biscuits,4,50,200,puja.paul@gmail.com
+1334,Rahul Paul,2026-04-17,East,Stationery,File,2,35,70,rahul.paul@gmail.com
+1685,Moumita Singh,2026-05-18,South,Electronics,Mobile,4,25000,100000,moumita.singh@gmail.com
+1888,Rahul Das,2026-01-09,East,Food,Biscuits,3,50,150,rahul.das@gmail.com
+1424,Karan Kumar,,East,Stationery,Marker,1,40,40,karan.kumar@gmail.com
+1973,Riya Ghosh,2026-04-04,North,Clothing,Shirt,8,1200,9600,riya.ghosh@gmail.com
+1222,Rahul Das,,North,Stationery,pen,7,20,140,
+1276,Puja Kumar,invalid-date,East,Clothing,Jeans,1,1800,1800, puja.kumar@gmail.com 
+1236, Rohit Singh ,2026-06-26,East,Clothing,Jacket,2,2500,5000,rohit.singh@gmail.com
+1328,Tanya Ghosh,2026-01-13,East,Clothing,Shirt,4,1200,4800,tanya.ghosh@gmail.com
+1193, Puja Sen ,2026-01-12,North,Food,Biscuits,6,50,300,puja.sen@gmail.com
+1530,Ravi Banerjee,2026-01-08,North,Furniture,Desk,2,6000,12000,ravi.banerjee@gmail.com
+1050,Ankit Das,2026/06/13,West,Clothing,Jacket,10,2500,25000,ankit.das@gmail.com
+1991, Amit Ghosh ,2026-05-02,East,Furniture,Sofa,7,18000,126000,amit.ghosh@gmail.com
+1003,Soumya Sen,2026-06-19,North,Stationery,Marker,10,40,400,soumya.sen@gmail.com
+1941,Neha Singh,2026-01-24,South,Stationery,Pen,3,,60,neha.singh@gmail.com
+1788,Neha Dutta,2026-01-05,West,Furniture,Chair,2,1800,3600,neha.dutta@gmail.com
+1927,Arjun Sharma,2026-06-03,North,Clothing,Shirt,7,1200,8400,arjun.sharma@gmail.com
+1250,Vikash Singh,2026-04-06,South,Clothing,T-Shirt,1,800,800,vikash.singh@gmail.com
+1553,Sayan Sen,2026-04-07,West,Clothing,Shirt,5,1200,6000,sayan.sen@gmail.com
+1950,Ravi Das,2026/03/10,east,Electronics,Headphones,10,1800,18000,ravi.das@gmail.com
+1175,Rahul Banerjee,2026-01-29,West,Food,Sugar,8,55,440,rahul.banerjee@gmail.com
+1095, Neha Ghosh ,2026-04-04,WEST,Electronics,Headphones,3,1800,5400,neha.ghosh@gmail.com
+1034, Meena Kumar ,2026-05-23,East,Clothing,Shirt,5,1200,6000,meena.kumar@gmail.com
+1260,Arjun Banerjee,,North,Furniture,Desk,2,,12000,arjun.banerjee@gmail.com
+1205,Ananya Das,2026-03-02,West,Furniture,Chair,10,1800,18000,ananya.das@gmail.com
+1347,Amit Singh,2026-02-15,North,Electronics,Laptop,1,55000,55000,amit.singh@gmail.com
+1594,Vikash Das,2026-05-07,North,Stationery,File,-2,35,315,vikash.das@gmail.com
+1329,Vikash Roy,2026-03-08,West, Electronics ,Laptop,6,55000,330000,vikash.roy@gmail.com
+1078,Amit Ghosh,invalid-date,SOUTH,Food,Oil,7,150,1050,amit.ghosh@gmail.com
+1085,Ravi Dutta,,South,Electronics,Laptop,7,55000,385000,ravi.dutta@gmail.com
+1679,Ankit Sen,2026-05-18,West,Clothing,Shoes,10,2200,22000,ankit.sen@gmail.com
+1083,Sneha Ghosh,2026-04-13,West,Electronics,Tablet,5,30000,150000,sneha.ghosh@gmail.com
+1371,Soumya Banerjee,2026-05-15,North,Food,Sugar,10,55,550,soumya.banerjee@gmail.com
+1937,Karan Sen,2026-05-05,South,Furniture,Desk,8,6000,48000,karan.sen@gmail.com
+1896,Vikash Singh,2026-04-17,North,Electronics,Mobile,8,,200000,vikash.singh@gmail.com
+1536,Karan Das,2026-02-15,West,Furniture,Desk,4,,,karan.das@gmail.com
+1383,Ravi Singh,2026-06-09,South,Food,Tea,7,250,1750,ravi.singh@gmail.com
+1719,Meena Ghosh,2026/04/05,South,Clothing,Shoes,5,2200,11000,meena.ghosh@gmail.com
+1299,Karan Kumar,2026-01-10,South,Food,tea,6,250,1500,karan.kumar@gmail.com
+1006,Puja Banerjee,2026-04-09,North,Electronics,Mobile,3,25000,75000,
+1431,Vikash Sen,2026-06-28,West,Furniture,Desk,3,6000,18000,vikash.sen@gmail.com
+1605,Priya Ghosh,2026-05-20,North,Electronics,Laptop,8,55000,440000,priya.ghosh@gmail.com
+1098,Priya Banerjee,2026-02-13,West,Stationery,Pencil,4,10,40,priya.banerjee@gmail.com
+1287,Karan Kumar,2026-04-23,East,Food,Oil,4,150,600,karan.kumar@gmail.com
+1382,Tanya Banerjee,2026-04-25,east,Furniture,Desk,2,6000,12000,tanya.banerjee@gmail.com
+1891, Abhishek Sen ,2026-05-11,South,Electronics,Tablet,1,30000,30000,abhishek.sen@gmail.com
+1282,Vikash Banerjee,2026-02-14,North,Food,Biscuits,7,50,350,
+1267,Neha Sharma,2026/04/10,East,Food,Oil,9,150,1350,neha.sharma@gmail.com
+1449, Sneha Roy ,,North,Furniture,Desk,-3,6000,,sneha.roy@gmail.com
+1708, Ananya Sharma ,2026-06-09,South,Furniture,Chair,6,1800,10800,ananya.sharma@gmail.com
+1324, Ankit Ghosh ,2026-05-19,South,Electronics,Monitor,4,12000,48000,ankit.ghosh@gmail.com
+1409,Arjun Sharma,2026-04-18,East,Food,Sugar,1,55,55,arjun.sharma@gmail.com
+1899,Rohit Banerjee,2026/02/07,west,Food,Sugar,10,,550,rohit.banerjee@gmail.com
+1539,Vikash Sharma,2026-03-05,west,Stationery,Marker,8,40,320,vikash.sharma@gmail.com
+1119, Ankit Das ,2026-02-08,North, Electronics ,Laptop,7,,385000,ankit.das@gmail.com
+1694,Soumya Roy,2026/05/01,North,Electronics,Monitor,8,12000,96000,soumya.roy@gmail.com
+1251, Ananya Ghosh ,invalid-date,West,Furniture,Table,6,4500,27000,ananya.ghosh@gmail.com
+1665,Riya Banerjee,2026-02-08,South,Food,Oil,2,150,300,riya.banerjee@gmail.com
+1667,Soumya Das,2026-01-19,East,Furniture,Desk,10,6000,60000,soumya.das@gmail.com
+1010,Rohit Das,2026-06-21,East,Electronics,Tablet,2,30000,60000,rohit.das@gmail.com
+1197,Meena Kumar,2026-05-10,North,Furniture,Sofa,4,18000,72000,meena.kumar@gmail.com
+1713,Arjun Roy,2026-06-12,West,Clothing,Jeans,6,,10800,arjun.roy@gmail.com
+1082,Amit Singh,2026-03-17,North,Furniture,Table,3,,13500,amit.singh@gmail.com
+1584,Ankit Banerjee,2026-02-26,West,Electronics,laptop,4,55000,220000,ankit.banerjee@gmail.com
+1508,Arjun Dutta,2026-02-09,North,Electronics,Monitor,1,12000,12000,arjun.dutta@gmail.com
+1669,Puja Banerjee,2026-06-27,South,Food,Rice,8,60,480,puja.banerjee@gmail.com
+1240,Moumita Kumar,2026-06-11,West,Furniture,Chair,7,1800,12600,moumita.kumar@gmail.com
+1313,Riya Ghosh,2026-01-31,North,Clothing,T-Shirt,10,800,8000,riya.ghosh@gmail.com
+1212, Priya Sen ,2026-05-09,East,Stationery,Notebook,10,80,800,priya.sen@gmail.com
+1862,Karan Kumar,2026-01-02,South,Stationery,Marker,8,40,320,karan.kumar@gmail.com
+1550,Neha Banerjee,2026-06-18,West,Clothing,Jeans,9,1800,16200,neha.banerjee@gmail.com
+1480, Arjun Sen ,2026-04-13,South,Clothing,Shoes,3,2200,6600,arjun.sen@gmail.com
+1228,Abhishek Roy,2026-02-24,North,Clothing,T-Shirt,4,800,3200,
+1911, Vikash Kumar ,2026-06-18,East,Electronics,Tablet,6,30000,180000,vikash.kumar@gmail.com
+1363,Meena Singh,2026-02-04,West,Clothing,Shoes,7,2200,15400,meena.singh@gmail.com
+1968,Riya Banerjee,2026-01-31,south,Furniture,Shelf,1,3500,3500,riya.banerjee@gmail.com
+1178,Riya Sen,2026-05-10,East,Food,Rice,9,,,riya.sen@gmail.com
+1885, Ravi Paul ,2026-06-17,North,Stationery,Pen,6,20,120,ravi.paul@gmail.com
+1939,Puja Dutta,2026-01-01,South,Furniture,Chair,6,1800,10800, puja.dutta@gmail.com 
+1500,Priya Banerjee,2026-05-09,South,Electronics,Mobile,1,25000,25000,priya.banerjee@gmail.com
+1680,Amit Roy,2026-05-24,North,Furniture,shelf,7,3500,24500,amit.roy@gmail.com
+1484,Soumya Paul,2026-05-24,East,Clothing,T-Shirt,3,800,,soumya.paul@gmail.com
+1008,Karan Das,2026-03-03,North,Electronics,Laptop,6,55000,330000,karan.das@gmail.com
+1156,Vikash Banerjee,2026-04-22,North,Clothing,Jacket,2,2500,5000,vikash.banerjee@gmail.com
+1558,Ananya Ghosh,2026-02-27,North,Clothing,T-Shirt,10,800,8000,ananya.ghosh@gmail.com
+1666,Neha Dutta,2026-02-23,East,Food,Rice,2,60,120,neha.dutta@gmail.com
+1514,Karan Dutta,2026-06-29,North,Food,Rice,5,60,300,karan.dutta@gmail.com
+1425,Abhishek Ghosh,2026-03-22,North,Stationery,Pencil,8,10,80, abhishek.ghosh@gmail.com 
+1800,Vikash Kumar,2026-03-05,East,Furniture,Shelf,7,3500,24500,
+1585,Moumita Das,2026-01-10,South,Electronics,Headphones,9,1800,16200,moumita.das@gmail.com
+1358,Vikash Dutta,2026-05-08,East,Stationery,Notebook,9,80,720,vikash.dutta@gmail.com
+1597,Neha Singh,2026-02-23,West,Food,sugar,-4,55,550,neha.singh@gmail.com
+1959,Abhishek Ghosh,2026-03-24,West,Electronics,tablet,-2,30000,180000,abhishek.ghosh@gmail.com
+1586,Ananya Singh,2026-01-25,East,Furniture,Shelf,6,3500,21000,ananya.singh@gmail.com
+1446,Rahul Sen,2026-06-14,North,Stationery,Pencil,3,10,30,rahul.sen@gmail.com
+1852,Rohit Roy,2026-04-04,North,Furniture,Table,7,4500,31500,rohit.roy@gmail.com
+1602,Sneha Dutta,2026-06-16,west,Furniture,Desk,5,6000,30000,sneha.dutta@gmail.com
+1729,Ananya Ghosh,2026-02-10,West,Stationery,Marker,5,40,200,ananya.ghosh@gmail.com
+1479,Puja Das,2026-05-11,South,Food,Tea,2,250,500,puja.das@gmail.com
+1897,Riya Das,2026-05-30,East,Clothing,Shirt,7,1200,8400,riya.das@gmail.com
+1229, Arjun Ghosh ,2026-06-05,North,Electronics,Laptop,5,55000,275000,arjun.ghosh@gmail.com
+1867,Karan Roy,2026-03-19,South,Food,Biscuits,10,50,,karan.roy@gmail.com
+1750, Neha Paul ,2026-04-21,North,Furniture,Sofa,4,18000,72000,neha.paul@gmail.com
+1213,Karan Ghosh,2026/05/22,North,Stationery,Marker,3,40,120,karan.ghosh@gmail.com
+1080,Rahul Banerjee,2026-03-03,East,Clothing,Shirt,7,1200,,rahul.banerjee@gmail.com
+1149,Rohit Das,2026-05-18,South,Electronics,Tablet,2,30000,60000,rohit.das@gmail.com
+1303,Sneha Dutta,2026-04-21,East,Food,Sugar,1,55,55,sneha.dutta@gmail.com
+1799,Arjun Paul,2026-06-24,North,Clothing,Jeans,9,1800,16200,arjun.paul@gmail.com
+1634, Neha Banerjee ,,East,Furniture,Sofa,8,18000,144000,neha.banerjee@gmail.com
+1524,Ravi Dutta,2026-04-30,East,Furniture,Table,2,4500,9000,ravi.dutta@gmail.com
+1366,Abhishek Das,2026/05/30,East,Food,Oil,10,150,1500,abhishek.das@gmail.com
+1044,Karan Dutta,2026-05-22,North,Stationery,Pen,3,20,60,karan.dutta@gmail.com
+1847,Riya Sen,2026-06-04,North,Furniture,Chair,4,1800,7200,riya.sen@gmail.com
+1134,Amit Banerjee,2026-05-18,North,Clothing,Jeans,5,1800,9000,amit.banerjee@gmail.com
+1568,Sayan Singh,2026-02-03,South,Stationery,Marker,3,,120,sayan.singh@gmail.com
+1312,Vikash Sen,2026-01-30,North,Furniture,Shelf,3,3500,10500,vikash.sen@gmail.com
+1627,Sneha Paul,2026-02-24,South,Furniture,Shelf,2,3500,7000,sneha.paul@gmail.com
+1598, Ananya Singh ,2026-01-25,East,Clothing,Jeans,2,1800,3600,ananya.singh@gmail.com
+1811,Riya Das,2026-02-15,North,Food,Oil,3,150,450,riya.das@gmail.com
+1001,Arjun Das,invalid-date,South,Electronics,Laptop,-2,55000,275000,arjun.das@gmail.com
+1317,Riya Roy,2026-05-05,north,Electronics,Laptop,9,55000,495000,riya.roy@gmail.com
+1868,Amit Das,2026-06-14,South,Clothing,Shoes,4,,8800, amit.das@gmail.com 
+1955,Ananya Sharma,2026-05-20,North,Furniture,Shelf,7,3500,24500,ananya.sharma@gmail.com
+1552,Abhishek Kumar,2026-02-10,North,Food,Oil,8,150,1200,abhishek.kumar@gmail.com
+1549, Rahul Singh ,2026-01-30,South,Clothing,Shirt,5,1200,6000, rahul.singh@gmail.com 
+1948,Meena Ghosh,invalid-date,North,Food,Tea,10,250,,
+1399,Meena Paul,2026-05-06,north,Electronics,Monitor,10,12000,120000,meena.paul@gmail.com
+1173,Puja Dutta,2026-05-27,West,Electronics,Headphones,9,1800,16200,puja.dutta@gmail.com
+1126,Sayan Sen,2026-05-27,South,Electronics,Tablet,7,30000,210000,sayan.sen@gmail.com
+1423,Karan Dutta,2026/03/12,north,Electronics,Tablet,2,30000,60000,karan.dutta@gmail.com
+1450,Rahul Paul,2026-05-05,East,Electronics,Mobile,9,25000,225000,rahul.paul@gmail.com
+1588,Arjun Ghosh,2026-03-20,North,Electronics,tablet,8,30000,240000,arjun.ghosh@gmail.com
+1926,Ananya Paul,2026-05-31,West,Stationery,Pencil,5,10,50,ananya.paul@gmail.com
+1091, Moumita Banerjee ,2026-05-25,East,Stationery,Pen,3,20,,moumita.banerjee@gmail.com
+1964,Ananya Das,2026-05-18,East,Electronics,Laptop,3,55000,165000,
+1182,Meena Kumar,2026-03-12,East,Electronics,Headphones,2,1800,3600,meena.kumar@gmail.com
+1364,Amit Singh,2026-03-09,South,Stationery,Pencil,4,10,40,amit.singh@gmail.com
+1275,Sneha Singh,2026-01-22,East,Clothing,T-Shirt,2,800,1600,sneha.singh@gmail.com
+1918,Tanya Banerjee,2026-05-04,West,Stationery,Notebook,2,80,,tanya.banerjee@gmail.com
+1070,Ankit Singh,2026-05-01,North,Stationery,Marker,6,40,240,ankit.singh@gmail.com
+1292,Sneha Banerjee,2026-03-25,West,Electronics,Monitor,8,12000,96000,sneha.banerjee@gmail.com
+1132,Ankit Ghosh,2026-03-29,East,Furniture,Chair,2,1800,3600,ankit.ghosh@gmail.com
+1301,Priya Ghosh,2026-02-07,North,Furniture,Table,9,4500,40500,priya.ghosh@gmail.com
+1454,Rahul Roy,2026-04-09,East,Electronics,Laptop,7,55000,385000,rahul.roy@gmail.com
+1327,Amit Sharma,2026-05-14,South,Electronics,Tablet,4,30000,120000,amit.sharma@gmail.com
+1145,Rohit Banerjee,2026-06-06,North,Clothing,Jeans,2,1800,3600,rohit.banerjee@gmail.com
+1545,Sneha Kumar,2026-06-02,East,Furniture,Desk,7,6000,42000,sneha.kumar@gmail.com
+1961,Sneha Banerjee,2026-01-18,South,Clothing,Jacket,3,2500,7500,sneha.banerjee@gmail.com
+1661, Sayan Sharma ,2026-02-16,South,Clothing,Shoes,1,2200,2200,
+1136,Tanya Kumar,invalid-date,South,Clothing,Shoes,3,2200,6600,tanya.kumar@gmail.com
+1436,Puja Dutta,2026-03-25,North,Clothing,jeans,1,1800,,puja.dutta@gmail.com
+1165,Ankit Sen,2026-01-19,East,Electronics,Mobile,10,25000,250000,ankit.sen@gmail.com
+1029, Puja Roy ,2026-02-16,West, Stationery ,Notebook,2,80,160,puja.roy@gmail.com
+1793,Abhishek Paul,2026/06/14,East, Clothing ,Jacket,9,2500,22500,
+1194,Tanya Paul,2026-01-29,South,Furniture,Sofa,7,18000,126000,tanya.paul@gmail.com
+1753,Moumita Sen,2026-06-11,East,Food,Sugar,9,55,495,moumita.sen@gmail.com
+1658, Moumita Dutta ,2026-02-10,South,Electronics,Monitor,7,12000,84000,moumita.dutta@gmail.com
+1818, Karan Kumar ,2026-02-10,East,Furniture,Chair,9,1800,16200,karan.kumar@gmail.com
+1170,Riya Sharma,2026-03-26,North,Clothing,Shoes,7,,15400,riya.sharma@gmail.com
+1760,Arjun Sen,2026-04-15,North,Furniture,Desk,4,6000,24000,arjun.sen@gmail.com
+1141,Neha Ghosh,2026-05-05,WEST,Electronics,Headphones,9,1800,16200,neha.ghosh@gmail.com
+1174, Soumya Roy ,2026-04-19,North,Clothing,Jeans,4,1800,7200,soumya.roy@gmail.com
+1007,Rahul Kumar,2026-05-10,South, Furniture ,Table,8,4500,36000,rahul.kumar@gmail.com
+1627,Sneha Paul,2026-02-24,South,Furniture,Shelf,2,3500,7000,sneha.paul@gmail.com
+1756,Soumya Kumar,2026-04-27,West,Furniture,Chair,2,1800,3600,soumya.kumar@gmail.com
+1670,Sneha Kumar,2026-03-06,East,Furniture,Desk,1,6000,6000,
+1074,Rohit Ghosh,2026-04-03,North,Stationery,Notebook,7,80,560,rohit.ghosh@gmail.com
+1704,Riya Paul,2026-05-17,North,Stationery,Pen,3,20,60,riya.paul@gmail.com
+1443,Ananya Roy,2026-03-07,South,Electronics,Tablet,10,30000,,ananya.roy@gmail.com
+1239, Ravi Ghosh ,2026-03-30,East,Furniture,Sofa,5,18000,90000,ravi.ghosh@gmail.com
+1146,Meena Roy,2026-03-12,South,Furniture,Sofa,7,18000,126000, meena.roy@gmail.com 
+1814,Karan Paul,2026-01-24,West,Electronics,Mobile,7,25000,175000,karan.paul@gmail.com
+1235,Meena Singh,2026-05-06,East,Furniture,Sofa,10,18000,,meena.singh@gmail.com
+1221,Abhishek Roy,2026-01-20,South,Electronics,Monitor,3,12000,36000,abhishek.roy@gmail.com
+1507,Vikash Singh,2026-04-04,North,Furniture,Table,2,4500,9000,vikash.singh@gmail.com
+1679,Ankit Sen,2026-05-18,West,Clothing,Shoes,10,2200,22000,ankit.sen@gmail.com
+1133,Riya Dutta,2026-03-26,South,Clothing,jeans,-5,1800,16200,riya.dutta@gmail.com
+1884,Sneha Sen,2026-01-06,East,Clothing,Shirt,3,1200,3600,
+1751,Arjun Banerjee,2026/05/08,East,Stationery,File,3,35,105,arjun.banerjee@gmail.com
+1676,Meena Dutta,2026-04-12,East,Furniture,Sofa,3,18000,54000,meena.dutta@gmail.com
+1186,Vikash Singh,2026-03-22,South,Clothing,Shirt,7,1200,8400,vikash.singh@gmail.com
+1042,Puja Singh,2026-05-01,North,Food,Oil,10,150,1500,puja.singh@gmail.com
+1631,Abhishek Dutta,2026-06-04,North,Furniture,Table,3,4500,13500,abhishek.dutta@gmail.com
+1109,Ankit Dutta,invalid-date,West,Furniture,Chair,8,1800,14400, ankit.dutta@gmail.com 
+1654,Rohit Sen,2026-02-23,South,Clothing,Shoes,10,2200,22000,rohit.sen@gmail.com
+1057, Neha Das ,2026-04-27,North,Food,Rice,7,60,420,neha.das@gmail.com
+1434,Neha Roy,2026-04-02,West,Clothing,T-Shirt,1,800,800,
+1785,Rahul Ghosh,2026-06-07,east,Clothing,Jacket,1,2500,2500,rahul.ghosh@gmail.com
+1582,Rohit Roy,2026-03-17,West,Stationery,File,8,35,280,rohit.roy@gmail.com
+1883,Abhishek Das,2026-06-09,South,Clothing,Shirt,9,1200,10800, abhishek.das@gmail.com 
+1025,Puja Das,2026-06-28,south,Clothing,T-Shirt,2,800,1600,puja.das@gmail.com
+1817,Meena Roy,2026-01-22,North,Electronics,Laptop,2,55000,,meena.roy@gmail.com
+1786,Puja Sharma,,West,Stationery,Pencil,4,10,40,puja.sharma@gmail.com
+1548,Moumita Sen,2026/05/25,East,Food,Rice,6,60,360,moumita.sen@gmail.com
+1639,Karan Sharma,2026-02-28,South,Electronics,Mobile,9,25000,225000,
+1715,Meena Singh,2026-05-03,East,Electronics,Monitor,5,12000,60000,meena.singh@gmail.com
+1951,Meena Sen,2026-02-24,East,Furniture,Chair,2,1800,3600,meena.sen@gmail.com
+1339, Sneha Paul ,2026/01/20,West,Stationery,Pencil,9,10,90,sneha.paul@gmail.com
+1052,Arjun Banerjee,2026-02-26,East,Stationery,File,5,35,175,arjun.banerjee@gmail.com
+1384, Ravi Roy ,2026-05-09,south,Electronics,Tablet,5,,150000,ravi.roy@gmail.com
+1532,Rohit Dutta,2026-05-28,South,Furniture,Desk,2,6000,12000,rohit.dutta@gmail.com
+1944,Ankit Banerjee,2026-04-16,West,Food,Biscuits,4,50,200,ankit.banerjee@gmail.com
+1653,Ravi Sharma,2026/04/23,South,Food,Oil,4,150,600,ravi.sharma@gmail.com
+1265,Priya Kumar,2026/06/28,SOUTH,Electronics,Tablet,3,,90000,priya.kumar@gmail.com
+1848, Karan Kumar ,2026-06-01,East,Furniture,Chair,9,1800,16200,karan.kumar@gmail.com
+1732, Sneha Sharma ,2026/06/08,north,Clothing,T-Shirt,10,800,8000,sneha.sharma@gmail.com
+1931,Meena Kumar,,West,Stationery,Pen,4,20,,meena.kumar@gmail.com
+1445,Ravi Sharma,2026/04/19,West,Food,Sugar,8,55,440,ravi.sharma@gmail.com
+1396,Amit Sharma,2026-05-04,West,Electronics,Monitor,6,12000,72000,amit.sharma@gmail.com
+1534,Arjun Ghosh,2026-04-26,West,Stationery,Notebook,3,80,240,arjun.ghosh@gmail.com
+1478,Rohit Paul,invalid-date,South, Clothing ,Shirt,7,1200,8400,rohit.paul@gmail.com
+1019,Riya Ghosh,2026-06-21,West,Clothing,Jacket,1,2500,2500,riya.ghosh@gmail.com
+1737, Ananya Paul ,2026-04-21,East,Food,Oil,8,150,1200,ananya.paul@gmail.com
+1515,Sayan Kumar,2026-06-12,West,Clothing,Shoes,7,2200,15400,sayan.kumar@gmail.com
+1981,Abhishek Sharma,2026/03/13,North,Furniture,Table,4,4500,18000,abhishek.sharma@gmail.com
+1463,Tanya Paul,2026-05-27,East,Stationery,Pen,7,20,140,tanya.paul@gmail.com
+1368,Riya Dutta,2026-03-28,West,Stationery,Pen,5,20,100,riya.dutta@gmail.com
+1084,Meena Sen,2026-03-25,North,Clothing,Shoes,5,2200,11000,meena.sen@gmail.com
+1062,Ananya Sharma,2026-06-21,East,Electronics,Tablet,3,30000,90000,ananya.sharma@gmail.com
+1281, Sneha Das ,2026-04-16,West,Electronics,Laptop,8,55000,440000,sneha.das@gmail.com
+1273,Ananya Paul,2026-05-23,North,Electronics,Mobile,9,25000,225000,ananya.paul@gmail.com
+1286,Rohit Sen,2026-03-21,North,Electronics,Headphones,7,1800,12600,
+1361,Riya Singh,2026-06-14,EAST,Clothing,Shirt,4,1200,4800,riya.singh@gmail.com
+1355,Priya Dutta,2026-04-04,South,Stationery,File,10,35,350,priya.dutta@gmail.com
+1989,Ravi Sharma,2026-03-04,West,Stationery,Marker,4,40,160,ravi.sharma@gmail.com
+1279,Amit Paul,2026-03-16,North,Food,Biscuits,7,50,350,amit.paul@gmail.com
+1013,Karan Das,2026/05/29,north,Furniture,Table,4,4500,18000,karan.das@gmail.com
+1183,Neha Paul,2026-04-10,West,Electronics,Headphones,5,1800,9000,neha.paul@gmail.com
+1369,Neha Dutta,2026-04-22,East,Food,Biscuits,10,,500,neha.dutta@gmail.com
+1520,Vikash Paul,2026-02-03,North,Stationery,Pencil,2,10,20,vikash.paul@gmail.com
+1636,Rohit Ghosh,2026-04-07,East,Food,Oil,10,150,1500, rohit.ghosh@gmail.com 
+1224,Ankit Sen,2026-02-21,North,Clothing,Jacket,7,2500,17500,ankit.sen@gmail.com
+1592,Sneha Kumar,2026-04-07,WEST,Food,Tea,-4,250,1000,sneha.kumar@gmail.com
+1914,Puja Singh,2026-01-13,West, Stationery ,Pencil,7,10,70,puja.singh@gmail.com
+1697,Rahul Banerjee,2026-04-10,North,Clothing,T-Shirt,7,800,5600,rahul.banerjee@gmail.com
+1733,Karan Sharma,2026-03-19,North,Food,Tea,1,250,250,karan.sharma@gmail.com
+1466,Priya Das,2026-03-18,South,Electronics,Laptop,4,55000,220000,priya.das@gmail.com
+1603,Ravi Dutta,2026-01-02,South,Electronics,Mobile,8,25000,200000,
+1629,Puja Paul,2026-02-18,West,Electronics,Headphones,10,1800,18000,puja.paul@gmail.com
+1177,Tanya Sen,2026-02-04,South,Food,Biscuits,5,50,250,tanya.sen@gmail.com
+1686, Ananya Sen ,2026-03-16,East,Electronics,Monitor,1,12000,12000,ananya.sen@gmail.com
+1893,Riya Singh,2026-04-22,East,Clothing,Shoes,7,,,riya.singh@gmail.com
+1606,Priya Sen,,South,Electronics,Headphones,7,1800,12600,priya.sen@gmail.com
+1457,Ankit Kumar,2026-05-08,South,Stationery,File,6,35,210, ankit.kumar@gmail.com 
+1537, Moumita Paul ,2026-04-11,West,Electronics,Tablet,4,30000,120000,moumita.paul@gmail.com
+1394,Rohit Roy,2026-04-28,West,Furniture,Table,3,4500,13500,rohit.roy@gmail.com
+1164, Karan Roy ,invalid-date,West,Clothing,Jacket,9,2500,22500,karan.roy@gmail.com
+1249,Riya Sharma,2026-03-06,North,Furniture,Sofa,6,,108000,riya.sharma@gmail.com
+1835,Puja Sharma,2026-03-01,South,Stationery,Pencil,3,10,30, puja.sharma@gmail.com 
+1908,Karan Singh,2026/03/09,south,Clothing,Shirt,5,1200,6000,
+1690,Rohit Roy,2026-06-24,East, Electronics ,Headphones,9,1800,16200,rohit.roy@gmail.com
+1376, Puja Kumar ,2026-05-22,north,Food,Oil,9,150,1350,puja.kumar@gmail.com
+1413, Meena Banerjee ,2026/01/28,South,Electronics,Headphones,9,1800,16200,meena.banerjee@gmail.com
+1075,Moumita Roy,2026-02-09,West,Stationery,Notebook,6,80,480,moumita.roy@gmail.com
+1114,Meena Paul,2026-02-08,West,Food,Tea,9,,2250,meena.paul@gmail.com
+1589, Ravi Dutta ,2026-06-17,North,Furniture,Chair,6,1800,10800,ravi.dutta@gmail.com
+1825,Vikash Dutta,2026-02-27,North,Food,Biscuits,9,50,450,vikash.dutta@gmail.com
+1391, Ravi Kumar ,2026-02-01,East,Stationery,Notebook,1,80,80,ravi.kumar@gmail.com
+1105,Karan Banerjee,2026-02-14,South, Clothing ,T-Shirt,6,800,4800,karan.banerjee@gmail.com
+1115,Soumya Ghosh,2026-04-26,NORTH,Furniture,Table,5,4500,22500,soumya.ghosh@gmail.com
+1418,Soumya Sharma,2026-03-09,SOUTH,Stationery,Pen,3,20,60,soumya.sharma@gmail.com
+1971,Puja Sen,2026-03-17,North,Clothing,Jacket,3,2500,7500,puja.sen@gmail.com
+1458,Tanya Kumar,2026-01-16,West,Stationery,File,4,35,140,tanya.kumar@gmail.com
+1410,Sneha Sharma,2026-04-21,West,Food,Biscuits,2,,100,sneha.sharma@gmail.com
+1093,Meena Das,2026-02-01,West,Stationery,Pencil,2,10,20,meena.das@gmail.com
+1583,Riya Dutta,2026-03-12,East,Clothing,T-Shirt,6,800,4800, riya.dutta@gmail.com 
+1090,Riya Roy,2026-02-27,East,Stationery,Pen,5,20,100,riya.roy@gmail.com
+1337,Ravi Paul,2026-01-13,East,Clothing,T-Shirt,5,800,4000,ravi.paul@gmail.com
+1900,Ananya Roy,2026-01-31,South,Furniture,Sofa,5,18000,,ananya.roy@gmail.com
+1945,Soumya Kumar,2026-02-24,North,Stationery,Pen,8,20,160,soumya.kumar@gmail.com
+1977,Neha Roy,2026-02-01,West,Food,Sugar,2,55,110,neha.roy@gmail.com
+1889,Ravi Kumar,2026-02-14,West,Furniture,Shelf,-1,3500,21000, ravi.kumar@gmail.com 
+1626,Meena Singh,2026-01-08,West,Food,Biscuits,5,50,250,meena.singh@gmail.com
+1614,Soumya Paul,,North,Electronics,Mobile,4,25000,100000,soumya.paul@gmail.com
+1632,Sneha Banerjee,2026-04-23,North,Furniture,Sofa,9,18000,162000,sneha.banerjee@gmail.com
+1012,Riya Paul,2026/05/04,West,Electronics,Laptop,4,55000,220000,riya.paul@gmail.com
+1397,Moumita Paul,2026/03/01,West,Food,Rice,10,,600,moumita.paul@gmail.com
+1550,Neha Banerjee,2026-06-18,West,Clothing,Jeans,9,1800,16200,neha.banerjee@gmail.com
+1043, Rohit Sharma ,2026-04-16,West,Food,rice,7,60,420,
+1168,Sneha Sharma,2026-04-09,North,Electronics,Tablet,5,30000,150000,sneha.sharma@gmail.com
+1417, Riya Sharma ,2026-01-03,east,Furniture,Table,-2,4500,31500,riya.sharma@gmail.com
+1778,Arjun Kumar,2026-06-06,South,Clothing,Jacket,7,2500,17500,arjun.kumar@gmail.com
+1427,Amit Dutta,2026-02-18,West, Furniture ,Table,7,4500,31500,amit.dutta@gmail.com
+1905,Ankit Roy,2026-05-29,East,Food,Rice,7,60,420,ankit.roy@gmail.com
+1988,Neha Roy,2026-05-24,East,Electronics,Monitor,5,12000,60000,neha.roy@gmail.com
+1705,Tanya Paul,2026-02-13,West,Electronics,Mobile,-4,25000,175000,tanya.paul@gmail.com
+1803,Priya Kumar,2026/04/21,NORTH, Furniture ,Sofa,7,18000,126000,priya.kumar@gmail.com
+1258,Meena Sharma,2026-05-22,East,Food,Oil,4,150,600,meena.sharma@gmail.com
+1336,Vikash Singh,2026-03-08,West,Electronics,Monitor,6,,72000,vikash.singh@gmail.com
+1016, Karan Sen ,2026-03-09,South,Stationery,Notebook,9,80,720,karan.sen@gmail.com
+1650,Abhishek Banerjee,2026-01-19,South,Stationery,Notebook,10,80,800,abhishek.banerjee@gmail.com
+1325,Abhishek Singh,2026-05-01,North,Electronics,Tablet,6,30000,180000,abhishek.singh@gmail.com
+1874,Riya Roy,2026-05-28,South,Clothing,T-Shirt,6,800,4800,riya.roy@gmail.com
+1223,Abhishek Banerjee,2026-05-04,West,Food,Rice,4,60,240,abhishek.banerjee@gmail.com
+1180,Arjun Das,2026-03-10,South,Clothing,Shoes,4,2200,8800,arjun.das@gmail.com
+1812, Amit Roy ,2026-04-07,West,Food,Tea,3,250,750,amit.roy@gmail.com
+1522,Soumya Paul,2026-03-22,West,Electronics,Headphones,2,1800,3600,soumya.paul@gmail.com
+1023,Sayan Dutta,2026-03-19,North,Stationery,Pencil,5,10,50,sayan.dutta@gmail.com
+1357,Tanya Sharma,2026/01/22,North,Stationery,Pen,1,20,20,tanya.sharma@gmail.com
+1978,Abhishek Banerjee,2026-02-26,West,Food,Oil,1,150,150,
+1884,Sneha Sen,2026-01-06,East,Clothing,Shirt,3,1200,3600,
+1341, Priya Sen ,2026-06-20,east,Furniture,Chair,5,1800,9000, priya.sen@gmail.com 
+1432,Amit Sen,2026-04-15,East,Stationery,notebook,6,80,480,amit.sen@gmail.com
+1569,Karan Banerjee,invalid-date,East,Stationery,Notebook,2,80,160,karan.banerjee@gmail.com
+1856,Sayan Singh,,West,Clothing,Jeans,9,1800,16200,sayan.singh@gmail.com
+1204,Rahul Dutta,2026-01-07,north,Stationery,Marker,7,40,280,rahul.dutta@gmail.com
+1651,Vikash Kumar,2026-06-09,north,Furniture,Chair,7,1800,12600,vikash.kumar@gmail.com
+1094, Abhishek Singh ,2026-05-08,East,Clothing,Jacket,9,2500,22500,abhishek.singh@gmail.com
+1576, Neha Kumar ,2026-03-22,East,Stationery,Pen,10,20,200,neha.kumar@gmail.com
+1069,Ankit Kumar,2026-02-14,South,Clothing,Jeans,2,1800,3600,ankit.kumar@gmail.com
+1859,Vikash Paul,2026-02-05,South,Stationery,File,8,35,280,vikash.paul@gmail.com
+1285,Rohit Sharma,2026-05-09,West,Clothing,T-Shirt,8,800,6400,rohit.sharma@gmail.com
+1827,Abhishek Sen,2026-06-05,North,Stationery,File,9,,315,abhishek.sen@gmail.com
+1435,Rahul Sharma,2026-02-21,West,Furniture,Chair,10,1800,18000,rahul.sharma@gmail.com
+1154,Abhishek Ghosh,2026-02-20,West,Food,Sugar,4,55,,
+1076,Arjun Kumar,2026-02-19,West,Furniture,Table,9,4500,40500,arjun.kumar@gmail.com
+1752,Moumita Ghosh,2026-05-01,East,Food,Biscuits,9,50,450,moumita.ghosh@gmail.com
+1447,Puja Sen,2026-06-12,North,Furniture,Shelf,-2,3500,,puja.sen@gmail.com
+1189,Arjun Roy,invalid-date,South,Furniture,Chair,4,,7200,arjun.roy@gmail.com
+1272,Puja Paul,2026-06-05,North,Food,Tea,4,250,1000,puja.paul@gmail.com
+1237,Ravi Ghosh,2026-03-13,West,Furniture,Table,7,4500,31500,ravi.ghosh@gmail.com
+1488,Riya Kumar,2026-05-18,North,Food,Oil,5,150,750,riya.kumar@gmail.com
+1560,Amit Banerjee,2026-03-30,North,Electronics,Mobile,8,,,amit.banerjee@gmail.com
+1118,Neha Singh,2026-04-28,West,Furniture,Shelf,6,,,neha.singh@gmail.com
+1965, Puja Ghosh ,invalid-date,South,Stationery,Notebook,2,80,160,puja.ghosh@gmail.com
+1513,Abhishek Roy,2026-06-13,west,Food,sugar,1,55,55,abhishek.roy@gmail.com
+1571,Neha Kumar,,North,Stationery,Pen,1,20,20,neha.kumar@gmail.com
+1612,Tanya Paul,2026-01-11,East,Food,Sugar,6,55,,tanya.paul@gmail.com
+1127,Soumya Singh,2026-02-04,North,Furniture,Shelf,10,3500,35000,soumya.singh@gmail.com
+1117,Meena Das,2026-03-22,East,Furniture,Chair,8,1800,14400,meena.das@gmail.com
+1474,Amit Ghosh,2026-05-12,south,Stationery,Pen,3,20,60,amit.ghosh@gmail.com
+1714,Amit Singh,2026-01-16,East,Clothing,T-Shirt,1,800,800,
+1058,Moumita Sharma,2026-02-07,East,Clothing,Shirt,3,1200,,moumita.sharma@gmail.com
+1695,Meena Sharma,2026-02-09,North,Stationery,Pen,4,20,80,meena.sharma@gmail.com
+1935,Rahul Ghosh,invalid-date,West,Stationery,Notebook,6,80,480,rahul.ghosh@gmail.com
+1370,Puja Sen,2026-01-11,West,Food,Oil,8,150,1200,puja.sen@gmail.com
+1269,Meena Sen,2026-02-17,North,Clothing,Shoes,3,2200,6600,meena.sen@gmail.com
+1047,Tanya Sharma,2026-05-09,South,Furniture,Desk,3,6000,18000, tanya.sharma@gmail.com 
+1350,Rahul Banerjee,,North,Food,Biscuits,1,50,50,rahul.banerjee@gmail.com
+1196,Arjun Singh,2026-06-19,East,Stationery,Notebook,7,80,560,
+1103,Karan Sharma,2026-06-16,North,Clothing,Shirt,6,1200,7200,karan.sharma@gmail.com
+1954,Moumita Roy,2026-03-30,East,Clothing,Shirt,10,1200,12000,moumita.roy@gmail.com
+1712,Riya Singh,2026-06-23,East,Clothing,Jacket,10,2500,25000,riya.singh@gmail.com
+1758,Arjun Das,2026-06-08,South,Food,Biscuits,7,50,350,
+1264,Abhishek Singh,2026-03-26,North,Food,Rice,5,60,,abhishek.singh@gmail.com
+1444,Puja Paul,invalid-date,East,Food,Tea,7,250,1750,puja.paul@gmail.com
+1696,Amit Das,2026-05-23,East,Furniture,Chair,8,1800,14400, amit.das@gmail.com 
+1305,Amit Banerjee,2026-04-07,South,Stationery,Notebook,2,80,160,amit.banerjee@gmail.com
+1342,Rohit Banerjee,2026-01-26,North,Stationery,Pencil,-1,10,40,rohit.banerjee@gmail.com
+1619,Amit Roy,2026-03-28,North,Furniture,Shelf,7,,24500,amit.roy@gmail.com
+1994,Amit Roy,2026-05-06,West,Stationery,File,4,35,140,amit.roy@gmail.com
+1150,Karan Roy,2026-01-04,North,Stationery,Pencil,1,10,10,karan.roy@gmail.com
+1125,Rahul Kumar,2026-04-03,West,Food,Rice,2,60,120,rahul.kumar@gmail.com
+1808,Arjun Paul,2026-02-22,North,Electronics,monitor,3,12000,36000,arjun.paul@gmail.com
+1845, Ankit Banerjee ,2026-03-30,South,Clothing,Jacket,-2,2500,17500,ankit.banerjee@gmail.com
+1051,Soumya Paul,2026-01-28,West,Food,Tea,5,250,1250,soumya.paul@gmail.com
+1354,Neha Banerjee,2026/06/21,West,Clothing,Jacket,7,2500,17500,neha.banerjee@gmail.com
+1952,Soumya Roy,2026-06-02,West,Furniture,Chair,8,1800,,
+1143, Neha Sen ,2026-03-06,East,Clothing,Shirt,3,1200,3600,neha.sen@gmail.com
+1471,Ravi Singh,2026-03-12,East,Furniture,Table,8,4500,36000,ravi.singh@gmail.com
+1400, Priya Banerjee ,2026-02-16,east,Food,Tea,3,250,750,priya.banerjee@gmail.com
+1821, Rahul Banerjee ,2026/02/02,South,Furniture,Shelf,6,3500,,rahul.banerjee@gmail.com
+1321,Puja Dutta,2026-05-03,West,Furniture,Shelf,1,3500,3500,puja.dutta@gmail.com
+1020,Soumya Paul,2026-03-13,East,Clothing,Jeans,1,1800,1800,soumya.paul@gmail.com
+1972,Tanya Banerjee,2026-06-09,North,Stationery,Notebook,9,80,720,tanya.banerjee@gmail.com
+1812, Amit Roy ,2026-04-07,West,Food,Tea,3,250,750,amit.roy@gmail.com
+1831,Riya Das,2026-01-19,South,Furniture,Table,3,4500,13500,
+1408,Soumya Sharma,2026-06-24,East,Clothing,Shoes,5,2200,11000,
+1538, Arjun Roy ,invalid-date,East,Stationery,File,5,35,175,arjun.roy@gmail.com
+1722,Moumita Singh,2026-03-11,South,Electronics,Tablet,6,30000,180000,moumita.singh@gmail.com
+1039, Riya Dutta ,2026-02-10,North,Electronics,Mobile,4,25000,100000,riya.dutta@gmail.com
+1176,Moumita Singh,invalid-date,North,Furniture,desk,10,6000,60000,moumita.singh@gmail.com
+1246,Neha Paul,2026-01-18,South,Food,Biscuits,-1,50,,neha.paul@gmail.com
+1851,Puja Sharma,2026-02-28,East,Clothing,Shoes,6,2200,13200,puja.sharma@gmail.com
+1688,Rohit Banerjee,2026-05-20,West,Stationery,Notebook,6,80,480,rohit.banerjee@gmail.com
+1947,Riya Ghosh,2026-04-08,South,Clothing,Shoes,5,2200,11000,riya.ghosh@gmail.com
+1881,Rohit Das,2026-06-06,North,Clothing,Jacket,5,2500,12500,rohit.das@gmail.com
+1155,Soumya Dutta,2026-04-18,SOUTH,Furniture,Sofa,2,18000,36000,soumya.dutta@gmail.com
+1288,Amit Kumar,2026-05-19,East,Stationery,Pen,3,20,60,
+1623,Ravi Banerjee,2026-02-25,West,Stationery,pen,1,20,20,ravi.banerjee@gmail.com
+1570,Abhishek Roy,2026-03-12,East,Stationery,Marker,2,40,80,abhishek.roy@gmail.com
+1765, Tanya Paul ,2026-03-02,South,Clothing,Shirt,9,1200,10800,tanya.paul@gmail.com
+1018,Priya Kumar,2026-01-11,East,Clothing,Jacket,3,2500,7500,priya.kumar@gmail.com
+1128,Riya Paul,2026-03-16,East,Clothing,Jacket,6,2500,15000,riya.paul@gmail.com
+1323,Vikash Das,2026/06/08,North,Food,Sugar,9,55,495,vikash.das@gmail.com
+1256,Abhishek Paul,2026-02-12,North,Electronics,Monitor,6,12000,72000,abhishek.paul@gmail.com
+1678,Sayan Banerjee,2026-03-08,West,Clothing,Shoes,10,2200,22000,sayan.banerjee@gmail.com
+1992,Neha Sharma,2026-05-28,North,Food,Biscuits,7,,350,neha.sharma@gmail.com
+1191,Sneha Kumar,2026-01-28,North,Electronics,Monitor,10,12000,120000,sneha.kumar@gmail.com
+1116,Soumya Das,2026-05-03,North,Food,Biscuits,1,50,50,soumya.das@gmail.com
+1637,Tanya Singh,,North,Electronics,Mobile,6,25000,150000,tanya.singh@gmail.com
+1607, Vikash Sen ,2026-01-23,WEST,Electronics,Tablet,8,30000,240000,vikash.sen@gmail.com
+1181,Ravi Singh,2026-02-25,East,Food,Tea,7,250,1750,ravi.singh@gmail.com
+1302,Riya Singh,2026-05-02,West,Food,Rice,1,60,,riya.singh@gmail.com
+1781,Priya Paul,2026-06-20,East,Stationery,Pen,5,20,100,priya.paul@gmail.com
+1875,Meena Ghosh,2026-05-28,South,Clothing,Jeans,3,1800,5400,meena.ghosh@gmail.com
+1801,Ankit Sharma,2026-03-05,South, Stationery ,Notebook,4,80,320,ankit.sharma@gmail.com
+1706,Ankit Banerjee,2026-06-23,East,Food,Rice,3,60,180,ankit.banerjee@gmail.com
+1824,Ravi Kumar,2026-02-17,North,Furniture,Table,6,,27000,ravi.kumar@gmail.com
+1518,Riya Banerjee,2026-03-03,West,Stationery,Marker,6,40,240,riya.banerjee@gmail.com
+1077, Sneha Dutta ,2026-03-14,North,Furniture,Sofa,9,18000,162000,sneha.dutta@gmail.com
+1046,Ankit Singh,2026-03-30,West,Stationery,Pencil,8,10,80,ankit.singh@gmail.com
+1942,Vikash Ghosh,2026-06-06,North,Electronics,Laptop,2,,110000,vikash.ghosh@gmail.com
+1158,Amit Das,invalid-date,East,Clothing,Shirt,3,1200,3600,amit.das@gmail.com
+1766,Rahul Ghosh,2026/03/11,SOUTH,Stationery,Pen,4,20,80,rahul.ghosh@gmail.com
+1172,Riya Singh,2026-03-09,North,Food,Tea,6,250,1500,riya.singh@gmail.com
+1017,Priya Sharma,2026-02-03,East,Electronics,Headphones,5,1800,9000,
+1512,Soumya Sen,2026-03-24,South,Electronics,Monitor,10,12000,120000,
+1049, Abhishek Roy ,2026-01-08,East,Furniture,Chair,2,1800,3600,abhishek.roy@gmail.com
+1999,Vikash Paul,2026-03-24,South,Stationery,Marker,3,40,120,vikash.paul@gmail.com
+1924,Priya Sen,2026-04-12,North,Clothing,Shirt,1,1200,1200,priya.sen@gmail.com
+1516,Rohit Banerjee,2026-06-20,North,Stationery,Notebook,8,80,640,rohit.banerjee@gmail.com
+1707,Puja Roy,2026-03-06,East,Electronics,Monitor,10,12000,120000,puja.roy@gmail.com
+1481,Puja Sharma,2026-01-29,East,Furniture,Chair,9,1800,16200,
+1284,Riya Banerjee,2026/03/20,North,Stationery,Pencil,7,10,70,riya.banerjee@gmail.com
+1740,Ankit Sen,2026-03-03,East,Stationery,Notebook,8,80,640, ankit.sen@gmail.com 
+1886,Ananya Ghosh,,East,Clothing,Jacket,-4,2500,15000,ananya.ghosh@gmail.com
+1226,Amit Kumar,2026-03-07,West,Food,Tea,4,250,1000,
+1027,Sayan Roy,2026-01-17,South,Clothing,Jeans,4,,7200,sayan.roy@gmail.com
+1804,Abhishek Ghosh,2026-06-14,East,Stationery,Notebook,10,80,800,abhishek.ghosh@gmail.com
+1438,Riya Ghosh,2026-01-18,West,Furniture,Table,6,4500,27000,riya.ghosh@gmail.com
+1982, Ankit Singh ,2026-02-02,South,Electronics,Laptop,1,55000,55000,ankit.singh@gmail.com
+1365,Arjun Das,2026-03-10,South,Furniture,Desk,2,6000,12000,arjun.das@gmail.com
+1230,Priya Banerjee,2026/06/07,south,Stationery,Marker,4,40,160,priya.banerjee@gmail.com
+1038,Ananya Paul,2026-05-14,South,Electronics,Mobile,2,25000,50000,ananya.paul@gmail.com
+1993,Moumita Singh,2026-02-04,north,Clothing,T-Shirt,2,800,1600,moumita.singh@gmail.com
+1375,Amit Sharma,2026-04-29,East,Clothing,Jacket,7,2500,17500,amit.sharma@gmail.com
+1470, Sayan Singh ,2026-03-08,South,Stationery,Pencil,10,10,100,sayan.singh@gmail.com
+1995,Puja Ghosh,2026-06-13,South,Stationery,File,9,35,315,puja.ghosh@gmail.com
+1873,Arjun Sen,2026-01-14,West,Furniture,Desk,9,6000,54000,arjun.sen@gmail.com
+1915,Soumya Dutta,2026-04-19,North,Food,Biscuits,4,50,200,soumya.dutta@gmail.com
+1747, Rohit Das ,2026-01-31,south,Food,Tea,7,250,1750,rohit.das@gmail.com
+1195, Sneha Paul ,2026/01/12,West,Clothing,Jacket,8,2500,20000,sneha.paul@gmail.com
+1877,Moumita Singh,2026-01-29,West,Electronics,Tablet,4,,120000,moumita.singh@gmail.com
+1887,Neha Sharma,2026-06-03,South,Clothing,Shoes,8,2200,17600,neha.sharma@gmail.com
+1504,Ankit Sharma,2026-05-03,West,Stationery,Notebook,9,80,720,ankit.sharma@gmail.com
+1997,Puja Dutta,2026-04-12,West,Electronics,Laptop,3,55000,165000,puja.dutta@gmail.com
+1853,Sneha Kumar,2026-05-26,WEST,Food,Sugar,8,55,,sneha.kumar@gmail.com
+1580,Riya Roy,2026-02-23,North,Food,Tea,6,250,1500,riya.roy@gmail.com
+1996,Arjun Sen,,South,Stationery,marker,3,40,120,arjun.sen@gmail.com
+1163,Priya Das,2026-04-01,West,Clothing,Shirt,9,1200,10800,priya.das@gmail.com
+1723,Arjun Paul,,west,Stationery,Pencil,5,10,50,arjun.paul@gmail.com
+1153,Ravi Sen,2026/02/15,North,Food,Rice,10,60,600,ravi.sen@gmail.com
+1917, Moumita Sen ,2026-01-08,West,Furniture,Table,6,4500,27000,moumita.sen@gmail.com
+1721,Meena Sen,2026-04-29,West,Furniture,Table,10,4500,45000,meena.sen@gmail.com
+1957,Karan Sen,2026-05-18,West, Clothing ,Jacket,3,2500,7500,karan.sen@gmail.com
+1112,Puja Banerjee,2026/03/03,North,Clothing,T-Shirt,1,800,800,
+1227,Puja Banerjee,2026-06-06,East,Food,Biscuits,9,50,450,puja.banerjee@gmail.com
+1709,Ankit Ghosh,2026-05-22,East,Furniture,Desk,6,6000,,ankit.ghosh@gmail.com
+1104,Karan Banerjee,2026-03-27,North,Food,Rice,1,60,60,karan.banerjee@gmail.com
+1422,Amit Kumar,2026-05-13,West,Stationery,Notebook,3,80,240,amit.kumar@gmail.com
+1420,Rohit Banerjee,2026-02-23,West,Electronics,Tablet,3,30000,90000,rohit.banerjee@gmail.com
+1934,Ananya Banerjee,2026/02/10,West,Stationery,Pen,7,20,140,ananya.banerjee@gmail.com
+1587,Tanya Banerjee,2026-06-25,West,Furniture,Table,8,4500,36000,tanya.banerjee@gmail.com
+1802,Ankit Sen,2026-03-25,East,Clothing,Jacket,3,2500,7500,ankit.sen@gmail.com
+1673,Ravi Das,2026-04-25,East,Food,Biscuits,6,50,300,ravi.das@gmail.com
+1120, Rahul Dutta ,2026-02-15,west,Food,Sugar,5,55,275,rahul.dutta@gmail.com
+1054,Ankit Das,2026/05/23,West,Electronics,Headphones,2,1800,3600,ankit.das@gmail.com
+1152,Priya Sharma,2026-01-12,South,Clothing,Shoes,1,2200,2200,priya.sharma@gmail.com
+1404,Meena Ghosh,2026-04-26,East, Clothing ,shoes,9,2200,19800,meena.ghosh@gmail.com
+1970,Neha Kumar,2026-04-23,North,Food,Sugar,5,55,275,neha.kumar@gmail.com
+1208,Ananya Dutta,2026-01-24,West,Stationery,Pen,7,20,140,ananya.dutta@gmail.com
+1659,Tanya Kumar,2026-03-24,South,Electronics,Tablet,8,30000,240000,tanya.kumar@gmail.com
+1866,Meena Banerjee,2026-04-26,West,Furniture,Desk,1,6000,6000,meena.banerjee@gmail.com
+1784,Meena Banerjee,2026-01-02,South,Clothing,Shirt,7,1200,8400,meena.banerjee@gmail.com
+1009,Soumya Kumar,2026-06-21,West,Furniture,Table,9,4500,40500,soumya.kumar@gmail.com
+1830,Ravi Roy,2026-01-20,north,Furniture,Sofa,10,18000,180000,ravi.roy@gmail.com
+1037,Karan Singh,2026-04-23,West,Electronics,Laptop,10,55000,550000,karan.singh@gmail.com
+1453,Vikash Dutta,2026-02-02,NORTH,Clothing,Jeans,9,1800,16200,vikash.dutta@gmail.com
+1652, Ankit Das ,,East,Stationery,Pen,4,20,80,ankit.das@gmail.com
+1254,Tanya Dutta,2026-01-13,East,Electronics,Monitor,7,12000,84000,tanya.dutta@gmail.com
+1304, Meena Dutta ,2026-06-22,north,Stationery,Marker,-5,40,120,meena.dutta@gmail.com
+1768,Neha Dutta,2026-02-12,West,Stationery,Pencil,7,10,70,neha.dutta@gmail.com
+1572,Karan Roy,2026-03-25,North,Furniture,chair,-3,,12600,karan.roy@gmail.com
+1624,Neha Singh,2026/01/25,east,Furniture,table,5,4500,22500,neha.singh@gmail.com
+1731,Rahul Kumar,2026-02-25,North,Food,Oil,9,150,1350,rahul.kumar@gmail.com
+1741,Ravi Paul,2026-06-28,North,Furniture,Chair,7,1800,12600,ravi.paul@gmail.com
+1263,Moumita Roy,2026-01-12,West,Food,Sugar,8,55,440,moumita.roy@gmail.com
+1611,Meena Ghosh,invalid-date,North,Clothing,Jacket,8,2500,20000,meena.ghosh@gmail.com
+1298,Amit Das,2026-06-11,West,Electronics,Monitor,10,12000,120000,amit.das@gmail.com
+1415,Ananya Sharma,2026-03-30,West,Electronics,Mobile,9,25000,225000,ananya.sharma@gmail.com
+1151,Neha Dutta,2026-03-09,North,Electronics,Tablet,7,30000,210000,neha.dutta@gmail.com
+1810,Puja Ghosh,,North,Electronics,Headphones,4,1800,7200,puja.ghosh@gmail.com
+1641,Tanya Dutta,2026-06-15,East,Clothing,Shirt,9,1200,10800,tanya.dutta@gmail.com
+1912,Amit Paul,2026-02-28,North,Electronics,Laptop,8,55000,440000,amit.paul@gmail.com
+1551,Neha Paul,2026-06-28,West,Stationery,File,6,,210,neha.paul@gmail.com
+1900,Ananya Roy,2026-01-31,South,Furniture,Sofa,5,18000,,ananya.roy@gmail.com
+1489,Vikash Paul,2026-04-25,South,Food,Biscuits,4,50,200,vikash.paul@gmail.com
+1711,Sneha Sharma,2026-02-21,South,Food,Rice,10,60,600,sneha.sharma@gmail.com
+1148,Vikash Sen,2026-03-09,North,Furniture,Chair,1,1800,1800,vikash.sen@gmail.com
+1147,Arjun Singh,invalid-date,West,Furniture,Sofa,1,18000,18000,arjun.singh@gmail.com
+1742,Ananya Sen,2026-06-26,West,Food,Tea,7,250,1750,ananya.sen@gmail.com
+1998,Meena Sharma,2026-04-15,North,Furniture,Chair,5,1800,9000,meena.sharma@gmail.com
+1761,Rohit Banerjee,2026-04-24,West,Food,Rice,8,60,480,rohit.banerjee@gmail.com
+1660,Karan Banerjee,2026-03-05,North,Electronics,Laptop,7,55000,385000,karan.banerjee@gmail.com
+1349,Sayan Singh,2026-05-26,North,Furniture,Table,5,4500,22500,sayan.singh@gmail.com
+1464,Soumya Sen,,south,Stationery,Pencil,2,10,20,soumya.sen@gmail.com
+1326,Karan Sen,2026-02-12,North,Electronics,Headphones,3,1800,5400,karan.sen@gmail.com
+1187,Puja Paul,2026/04/20,West,Electronics,Mobile,10,25000,250000,
+1124,Ravi Dutta,2026-04-21,West,Furniture,Desk,4,6000,24000,ravi.dutta@gmail.com
+1975,Neha Paul,2026-06-02,West, Food ,Sugar,8,,440,neha.paul@gmail.com
+1609,Priya Banerjee,2026-02-09,West,Stationery,File,3,35,105,priya.banerjee@gmail.com
+1144,Abhishek Sharma,2026-06-28,North,Stationery,Pen,9,20,180,abhishek.sharma@gmail.com
+1986,Priya Sen,2026-05-06,North,Clothing,Jeans,7,1800,12600,priya.sen@gmail.com
+1198,Priya Dutta,2026-01-24,North,Electronics,Headphones,7,1800,12600,priya.dutta@gmail.com
+1610,Abhishek Kumar,2026-01-30,North,Clothing,Shirt,4,1200,4800,abhishek.kumar@gmail.com
+1280,Moumita Ghosh,2026-05-15,East,Stationery,Marker,7,40,280,moumita.ghosh@gmail.com
+1294,Moumita Dutta,,WEST,Electronics,Monitor,1,,12000,moumita.dutta@gmail.com
+1401,Neha Sharma,invalid-date,east,Stationery,File,2,35,70,neha.sharma@gmail.com
+1123,Sayan Roy,2026-05-09,North,Furniture,Shelf,6,3500,21000,sayan.roy@gmail.com
+1184,Karan Sen,2026-02-02,West,Clothing,Shoes,3,2200,6600,karan.sen@gmail.com
+1203,Moumita Kumar,2026-06-22,East,Clothing,Jeans,4,1800,7200,moumita.kumar@gmail.com
+1439,Amit Sharma,2026-04-06,South,Furniture,Table,10,4500,45000,amit.sharma@gmail.com
+1247,Arjun Sen,2026-01-04,South,Clothing,Jacket,1,2500,2500,arjun.sen@gmail.com
+1416,Meena Roy,2026-04-27,North,Stationery,Marker,7,40,280,meena.roy@gmail.com
+1815,Riya Dutta,2026-02-02,SOUTH,Clothing,T-Shirt,9,800,7200,riya.dutta@gmail.com
+1787,Meena Banerjee,2026-04-26,South,Stationery,Pencil,-2,,40,meena.banerjee@gmail.com
+1929,Rahul Sen,2026-04-29,West, Clothing ,Jeans,1,1800,1800,rahul.sen@gmail.com
+1790,Karan Kumar,,North,Clothing,Shirt,2,1200,2400,karan.kumar@gmail.com
+1910,Sayan Paul,2026-05-20,East,Food,Sugar,3,55,165,sayan.paul@gmail.com
+1130,Rohit Paul,2026-04-03,North,Stationery,File,9,35,315,rohit.paul@gmail.com
+1638,Rohit Das,2026-03-07,South,Electronics,Headphones,10,1800,18000,rohit.das@gmail.com
+1403,Neha Paul,2026-06-11,East,Furniture,Sofa,10,18000,180000,neha.paul@gmail.com
+1522,Soumya Paul,2026-03-22,West,Electronics,Headphones,2,1800,3600,soumya.paul@gmail.com
+1909,Neha Banerjee,2026/05/20,North,Electronics,Monitor,3,12000,36000,neha.banerjee@gmail.com
+1736,Ravi Sen,2026-04-27,East,Clothing,T-Shirt,5,800,4000,ravi.sen@gmail.com
+1936,Riya Paul,2026/03/19,North,Stationery,Pencil,9,10,90,riya.paul@gmail.com
+1220,Vikash Roy,2026-06-17,West,Food,Sugar,9,55,495,vikash.roy@gmail.com
+1642,Riya Sen,2026-06-22,West,Furniture,Desk,3,6000,18000,riya.sen@gmail.com
+1938,Moumita Singh,2026-05-12,East,Clothing,Jeans,3,1800,5400,moumita.singh@gmail.com
+1774,Neha Singh,2026-02-26,North,Electronics,Mobile,1,25000,25000,neha.singh@gmail.com
+1829,Ankit Banerjee,2026-03-04,North,Furniture,Chair,9,1800,16200,ankit.banerjee@gmail.com
+1946,Rohit Das,2026-02-08,EAST,Food,Tea,5,250,1250,rohit.das@gmail.com
+1625,Abhishek Roy,invalid-date,West,Food,Biscuits,6,50,300,abhishek.roy@gmail.com
+1211, Rahul Singh ,2026-01-10,EAST,Furniture,Chair,3,1800,,rahul.singh@gmail.com
+1782, Ankit Roy ,2026-01-21,North,Clothing,Jeans,8,1800,14400,ankit.roy@gmail.com
+1387,Ankit Dutta,2026-02-28,West,Furniture,Sofa,4,18000,72000,ankit.dutta@gmail.com
+2000,Rohit Banerjee,2026-06-06,East,Food,Sugar,5,55,275,rohit.banerjee@gmail.com
+1510, Ravi Paul ,2026-02-24,West,Stationery,File,1,35,35,ravi.paul@gmail.com
+1268,Vikash Roy,2026-03-21,West,Clothing,Jacket,4,2500,10000,vikash.roy@gmail.com
+1842,Rohit Kumar,,North,Clothing,Shoes,5,2200,11000,rohit.kumar@gmail.com
+1442, Abhishek Das ,2026-05-04,East, Food ,Biscuits,10,50,500,abhishek.das@gmail.com
+1497,Ravi Sharma,2026-01-05,South,Clothing,T-Shirt,4,800,3200,ravi.sharma@gmail.com
+1113,Vikash Ghosh,2026-03-02,East,Stationery,Marker,4,40,160,vikash.ghosh@gmail.com
+1692,Puja Sharma,2026-04-16,West,Food,Oil,-4,150,750,
+1233,Ravi Dutta,2026-06-29,North,Clothing,Shirt,7,1200,8400,ravi.dutta@gmail.com
+1892,Soumya Sharma,2026-05-25,North,Furniture,Table,2,4500,9000,soumya.sharma@gmail.com
+1608,Priya Paul,2026-02-15,East,Clothing,Jeans,5,1800,9000,priya.paul@gmail.com
+1672,Abhishek Banerjee,invalid-date,North,Electronics,Tablet,8,30000,240000, abhishek.banerjee@gmail.com 
+1374,Tanya Paul,2026-06-25,East,Clothing,T-Shirt,5,800,4000,tanya.paul@gmail.com
+1860,Sneha Ghosh,2026-02-12,West,Clothing,Shoes,10,2200,22000,sneha.ghosh@gmail.com
+1865,Rohit Singh,2026-06-04,North,Stationery,Notebook,10,80,800,rohit.singh@gmail.com
+1234,Arjun Das,2026-02-22,East,Clothing,Jacket,4,2500,,arjun.das@gmail.com
+1807,Sayan Banerjee,2026-01-25,East,Food,Sugar,4,55,220,sayan.banerjee@gmail.com
+1677,Tanya Das,2026-03-04,South,Clothing,Shirt,1,1200,1200,tanya.das@gmail.com
+1318,Amit Singh,2026-01-14,West,Clothing,Jacket,4,2500,10000,amit.singh@gmail.com
+1649,Ravi Sharma,2026-01-09,West,Stationery,Notebook,9,80,720,ravi.sharma@gmail.com
+1411,Sneha Singh,2026-01-22,North,Stationery,Pencil,8,,80,sneha.singh@gmail.com
+1921, Meena Roy ,2026-01-20,South,Food,Biscuits,8,50,400,meena.roy@gmail.com
+1710,Ravi Sen,invalid-date,South,Clothing,T-Shirt,3,800,2400,ravi.sen@gmail.com
+1359,Neha Banerjee,2026-05-06,North,Food,Tea,7,250,1750,neha.banerjee@gmail.com
+1259,Meena Singh,2026-05-05,South,Stationery,Pen,2,20,,meena.singh@gmail.com
+1745,Sayan Roy,2026-01-12,West,Furniture,Table,1,4500,4500,sayan.roy@gmail.com
+1628,Rohit Dutta,2026-02-27,West,Food,Rice,6,60,360,rohit.dutta@gmail.com
+1633,Sneha Roy,2026-04-16,East,Clothing,Shirt,10,1200,12000,sneha.roy@gmail.com
+1283,Karan Banerjee,2026-05-23,East,Furniture,Chair,9,,16200,karan.banerjee@gmail.com
+1377,Priya Sen,2026-06-30,West,Clothing,Jeans,7,1800,12600,priya.sen@gmail.com
+1385,Priya Singh,2026-01-29,West,Stationery,Pencil,2,10,20,priya.singh@gmail.com
+1225,Rahul Paul,2026-04-05,West,Clothing,Shoes,9,2200,19800,rahul.paul@gmail.com
+1980,Tanya Das,2026-06-15,South,Furniture,Chair,2,1800,3600,tanya.das@gmail.com
+1837,Amit Dutta,2026-02-07,East,Stationery,Pencil,-5,10,80,amit.dutta@gmail.com
+1473,Soumya Sharma,2026-06-29,West,Furniture,Chair,10,,18000,soumya.sharma@gmail.com
+1348,Ananya Dutta,2026-01-09,North,Food,Sugar,6,55,330, ananya.dutta@gmail.com 
+1506, Ankit Kumar ,2026-05-08,North,Furniture,Chair,1,1800,1800,ankit.kumar@gmail.com
+1640,Tanya Kumar,2026-05-29,North,Stationery,Pen,10,20,200,tanya.kumar@gmail.com
+1939,Puja Dutta,2026-01-01,South,Furniture,Chair,6,1800,10800, puja.dutta@gmail.com 
+1798,Ravi Paul,2026-03-09,North,Furniture,Chair,8,1800,14400,ravi.paul@gmail.com
+1953,Rahul Das,2026/01/01,North,Stationery,Pen,5,20,100,rahul.das@gmail.com
+1928,Tanya Sharma,2026-02-10,West,Clothing,t-shirt,9,800,7200,
+1620,Puja Ghosh,,East,Stationery,Marker,5,,200,puja.ghosh@gmail.com
+1878,Ananya Das,2026-01-10,South,Food,Tea,1,250,250,ananya.das@gmail.com
+1826,Karan Das,2026-02-25,South,Electronics,Tablet,1,30000,30000,karan.das@gmail.com
+1646,Sayan Singh,2026/03/13,South,Stationery,File,1,35,35,sayan.singh@gmail.com
+1869,Karan Kumar,2026-04-09,West,Clothing,T-Shirt,5,800,4000,karan.kumar@gmail.com
+1557,Soumya Das,2026-05-09,West,Clothing,Shoes,8,2200,17600,soumya.das@gmail.com
+1985, Ankit Das ,2026/04/20,West,Clothing,Shirt,4,1200,4800,ankit.das@gmail.com
+1578,Priya Sen,2026-04-25,East,Stationery,Pencil,2,10,20,priya.sen@gmail.com
+1796, Moumita Sen ,2026-01-30,East,Clothing,Shoes,10,2200,22000,moumita.sen@gmail.com
+1086,Vikash Roy,,East,Food,Tea,2,250,500,vikash.roy@gmail.com
+1243,Ananya Kumar,2026-02-04,West,Food,Tea,8,250,2000,ananya.kumar@gmail.com
+1699,Ankit Sharma,2026-04-16,West,Electronics,Headphones,5,1800,9000,ankit.sharma@gmail.com
+1160,Abhishek Sharma,2026-05-27,South,Food,Rice,1,60,60,abhishek.sharma@gmail.com
+1525,Tanya Paul,2026-04-19,West,Food,Oil,4,150,600,tanya.paul@gmail.com
+1036,Rohit Banerjee,2026-01-26,East,Furniture,Sofa,10,18000,180000,rohit.banerjee@gmail.com
+1541,Ravi Singh,2026-03-04,North,Furniture,Table,3,4500,13500,ravi.singh@gmail.com
+1171, Amit Kumar ,2026-02-21,West,Food,Rice,7,60,420,amit.kumar@gmail.com
+1655,Sayan Sen,2026-04-03,East,Electronics,Headphones,7,1800,12600,sayan.sen@gmail.com
+1913,Rahul Sharma,2026-06-02,North,Electronics,Headphones,8,1800,14400,rahul.sharma@gmail.com
+1880,Amit Ghosh,2026-02-23,South,Food,Rice,8,60,480,amit.ghosh@gmail.com
+1870,Ravi Dutta,2026/04/05,South,Clothing,T-Shirt,3,800,2400,ravi.dutta@gmail.com
+1969,Ravi Paul,2026-04-17,East,Electronics,Monitor,1,12000,12000,ravi.paul@gmail.com
+1734, Abhishek Banerjee ,2026/03/11,East,Electronics,Laptop,-4,55000,220000,abhishek.banerjee@gmail.com
+1096,Ravi Roy,2026/06/04,South,Food,Biscuits,9,50,450,ravi.roy@gmail.com
+1564,Karan Ghosh,2026-06-17,East,Food,Oil,8,150,1200,karan.ghosh@gmail.com
+1241,Neha Singh,2026-05-31,East,Food,Sugar,7,55,385,neha.singh@gmail.com
+1743,Meena Das,2026-01-09,West,Electronics,Headphones,7,1800,,meena.das@gmail.com
+1575,Ravi Sen,2026-05-24,East,Clothing,Jacket,7,2500,17500,ravi.sen@gmail.com
+1691,Rahul Das,2026-02-15,East,Clothing,T-Shirt,5,800,4000,rahul.das@gmail.com
+1461,Sneha Ghosh,2026-02-15,West,Furniture,Table,1,4500,4500,sneha.ghosh@gmail.com
+1554, Riya Das ,2026-06-20,North,Electronics,Laptop,1,55000,55000,riya.das@gmail.com
+1901,Puja Singh,2026-05-02,East,Food,Sugar,1,55,55,puja.singh@gmail.com
+1207, Priya Roy ,2026-06-02,East,Food,Tea,3,250,750,priya.roy@gmail.com
+1393,Priya Paul,2026-05-02,SOUTH,Furniture,Chair,2,1800,3600,priya.paul@gmail.com
+1795,Ankit Kumar,2026-02-09,West,Electronics,Laptop,5,,275000,ankit.kumar@gmail.com
+1398,Soumya Banerjee,,North,Electronics,Monitor,2,12000,24000,soumya.banerjee@gmail.com
+1767,Riya Banerjee,2026-01-18,North,Clothing,T-Shirt,4,800,3200,riya.banerjee@gmail.com
+1871,Amit Sharma,2026-01-03,West,Electronics,Tablet,10,30000,300000,amit.sharma@gmail.com
+1218,Rohit Sharma,2026-06-07,South,Electronics,Headphones,6,1800,10800,rohit.sharma@gmail.com
+1005,Tanya Paul,2026-02-06,West,Stationery,Marker,4,40,160,tanya.paul@gmail.com
+1769,Puja Roy,2026-06-01,West,Clothing,T-Shirt,4,800,3200,
+1643,Soumya Banerjee,2026-03-24,South,Electronics,Tablet,10,30000,300000,soumya.banerjee@gmail.com
+1920,Rohit Roy,2026-02-02,East,Clothing,Shirt,5,,6000,rohit.roy@gmail.com
+1613,Vikash Roy,2026-06-19,South,Stationery,Pencil,4,,40,vikash.roy@gmail.com
+1739,Meena Ghosh,2026-05-14,West,Food,Tea,2,250,500,meena.ghosh@gmail.com
+1547,Karan Das,2026-02-02,East,Electronics,Mobile,10,25000,250000,karan.das@gmail.com
+1726,Ravi Ghosh,2026/04/16,north,Clothing,T-Shirt,6,800,4800,ravi.ghosh@gmail.com
+1684,Sneha Dutta,invalid-date,EAST,Electronics,Tablet,8,30000,240000, sneha.dutta@gmail.com 
+1099,Moumita Singh,2026-06-30,North,Clothing,Jacket,9,2500,22500,moumita.singh@gmail.com
+1805,Sneha Kumar,2026-05-14,EAST,Stationery,Pencil,3,10,30,sneha.kumar@gmail.com
+1728,Puja Dutta,2026-01-11,north, Food ,Tea,1,250,250,puja.dutta@gmail.com
+1574,Rohit Sharma,2026-06-18,West,Furniture,Shelf,2,3500,7000,rohit.sharma@gmail.com
+1407,Soumya Paul,2026-03-13,North,Stationery,Pen,1,20,20,soumya.paul@gmail.com
+1503, Priya Banerjee ,2026-01-12,west,Electronics,Monitor,10,12000,120000,priya.banerjee@gmail.com
+1048,Sayan Sen,2026-06-22,East,Food,Biscuits,10,50,500, sayan.sen@gmail.com 
+1033,Tanya Singh,2026-06-01,West,Food,Sugar,9,55,,tanya.singh@gmail.com
+1780, Soumya Roy ,2026-05-06,West,Electronics,Monitor,1,12000,12000,soumya.roy@gmail.com
+1840, Sneha Roy ,2026-03-29,West,Electronics,Tablet,7,30000,210000,sneha.roy@gmail.com
+1201,Tanya Sharma,2026-05-22,North,Stationery,Pencil,3,10,30,tanya.sharma@gmail.com
+1135,Moumita Banerjee,2026-06-22,North,Stationery,Pen,5,20,100,moumita.banerjee@gmail.com
+1028,Puja Dutta,2026/05/05,South, Food ,Biscuits,7,50,350,puja.dutta@gmail.com
+1903,Ravi Paul,2026-05-07,North,Stationery,File,2,35,70,ravi.paul@gmail.com
+1231,Ananya Banerjee,2026-03-30,East,Electronics,Monitor,5,12000,60000,ananya.banerjee@gmail.com
+1490,Riya Paul,2026-01-18,South,Electronics,Tablet,3,,90000,riya.paul@gmail.com
+1773,Soumya Sen,2026-03-12,west,Food,oil,3,150,450,soumya.sen@gmail.com
+1379, Ankit Roy ,2026-02-18,NORTH,Furniture,Sofa,2,18000,36000,ankit.roy@gmail.com
+1289,Meena Das,2026-04-30,NORTH,Stationery,Marker,5,40,200,meena.das@gmail.com
+1419,Sneha Roy,2026-02-18,South,Stationery,File,2,35,70,sneha.roy@gmail.com
+1675,Meena Sharma,2026-02-18,North,Food,Oil,3,150,450,meena.sharma@gmail.com
+1392,Ravi Kumar,2026-06-20,East,Stationery,Pencil,4,10,40,ravi.kumar@gmail.com
+1593,Rahul Paul,2026-04-25,South,Furniture,Table,10,4500,45000,rahul.paul@gmail.com
+1499,Arjun Sen,2026-05-26,North,Food,oil,2,150,300,arjun.sen@gmail.com
+1139,Puja Roy,2026-02-22,South,Stationery,Marker,10,40,400,puja.roy@gmail.com
+1063,Ananya Ghosh,2026-03-13,North,Clothing,T-Shirt,-3,,4800,ananya.ghosh@gmail.com
+1472,Vikash Sharma,2026-03-15,North,Clothing,T-Shirt,3,800,2400,vikash.sharma@gmail.com
+1648,Riya Ghosh,2026-02-28,West,Food,Tea,4,250,1000, riya.ghosh@gmail.com 
+1129, Soumya Singh ,2026-06-27,East,Stationery,Notebook,8,80,640,soumya.singh@gmail.com
+1661, Sayan Sharma ,2026-02-16,South,Clothing,Shoes,1,2200,2200,
+1521,Ankit Sharma,2026-01-29,North,Electronics,tablet,2,30000,60000,ankit.sharma@gmail.com
+1839,Soumya Kumar,2026-05-14,South,Electronics,Headphones,3,1800,,soumya.kumar@gmail.com
+1990,Arjun Dutta,2026/02/01,East,Electronics,Headphones,6,1800,10800,arjun.dutta@gmail.com
+1065,Moumita Sharma,2026-03-11,North,Electronics,Mobile,3,25000,75000,moumita.sharma@gmail.com
+1813,Rohit Banerjee,2026-04-26,East,Food,Sugar,9,55,495,rohit.banerjee@gmail.com
+1015,Moumita Banerjee,2026-01-19,North,Electronics,Laptop,8,55000,440000,moumita.banerjee@gmail.com
+1157,Sneha Roy,2026-04-30,West,Stationery,Notebook,3,80,240,sneha.roy@gmail.com
+1041, Puja Ghosh ,2026-01-07,East,Electronics,Monitor,1,,12000,puja.ghosh@gmail.com
+1493,Karan Das,2026-06-25,West,Furniture,Table,6,4500,27000,karan.das@gmail.com
+1380,Sneha Roy,2026/06/29,South,Furniture,Desk,1,6000,6000,sneha.roy@gmail.com
+1188, Sneha Paul ,2026-02-12,EAST,Food,Biscuits,3,50,150,sneha.paul@gmail.com
+1764,Abhishek Roy,2026-02-06,East,Electronics,Monitor,5,,60000,abhishek.roy@gmail.com
+1217,Rohit Sharma,2026-06-01,west,Electronics,Laptop,1,55000,55000,rohit.sharma@gmail.com
+1792,Soumya Singh,2026-01-08,East,Clothing,Shoes,9,2200,19800,soumya.singh@gmail.com
+1053,Meena Paul,2026-02-21,South,Clothing,T-Shirt,5,800,4000,meena.paul@gmail.com
+1879,Riya Das,2026-01-16,West,Food,Sugar,6,55,330,
+1338, Sneha Dutta ,2026-02-06,East,Food,Biscuits,6,50,300,sneha.dutta@gmail.com
+1749,Soumya Sen,2026-04-10,South,Furniture,Desk,8,6000,48000,soumya.sen@gmail.com
+1720,Vikash Ghosh,2026-02-02,South,Food,Sugar,6,55,330,vikash.ghosh@gmail.com
+1725,Sayan Roy,2026-06-06,east,Electronics,Headphones,6,1800,10800,
+1296,Amit Roy,2026-04-27,West, Furniture ,Desk,3,6000,18000,amit.roy@gmail.com
+1702,Vikash Das,2026-04-16,South,Stationery,Pen,7,20,,vikash.das@gmail.com
+1252,Ananya Roy,invalid-date,North,Furniture,Sofa,10,,180000,ananya.roy@gmail.com
+1727,Ananya Sharma,2026/06/14,North,Clothing,jeans,1,1800,1800,ananya.sharma@gmail.com
+1462,Abhishek Paul,2026-06-11,East,Clothing,Jacket,-5,2500,5000,abhishek.paul@gmail.com
+1456, Sayan Banerjee ,2026-03-21,North,Food,Oil,6,150,900,sayan.banerjee@gmail.com
+1528,Soumya Das,2026-05-07,North,Furniture,Sofa,6,18000,108000,soumya.das@gmail.com
+1816,Arjun Sen,2026-06-09,South, Furniture ,table,3,4500,,arjun.sen@gmail.com
+1863,Neha Sharma,2026-04-04,North,Food,Sugar,4,55,220,neha.sharma@gmail.com
+1270,Riya Sharma,2026-06-05,East,Clothing,T-Shirt,3,800,2400,riya.sharma@gmail.com
+1202,Moumita Das,2026-04-12,East,Stationery,File,7,35,245,moumita.das@gmail.com
+1162,Rohit Ghosh,2026-03-11,West,Furniture,Sofa,10,18000,180000,
+1556,Soumya Roy,2026-05-16,West,Furniture,Sofa,4,18000,72000,soumya.roy@gmail.com
+1730,Priya Paul,2026-02-22,North,Clothing,Jeans,2,,3600,priya.paul@gmail.com
+1402,Soumya Roy,2026-05-19,East,Furniture,chair,9,1800,16200, soumya.roy@gmail.com 
+1703,Meena Sen,2026-04-02,East,Electronics,Laptop,1,55000,55000,meena.sen@gmail.com
+1477,Rahul Ghosh,2026-01-29,south,Clothing,Shirt,7,1200,8400,rahul.ghosh@gmail.com
+1822,Tanya Das,2026-04-07,South,Clothing,Shoes,8,2200,17600,tanya.das@gmail.com
+1772,Ravi Sharma,2026-04-23,North,Stationery,Marker,5,40,200,ravi.sharma@gmail.com
+1106,Karan Banerjee,2026/03/08,North,Furniture,Sofa,6,18000,108000,karan.banerjee@gmail.com
+1566,Sayan Singh,2026-04-08,north,Electronics,Tablet,10,,300000,sayan.singh@gmail.com
+1390,Ananya Ghosh,2026-02-02,West,Food,Rice,-5,60,60,ananya.ghosh@gmail.com
+1002,Puja Ghosh,2026-02-09,East,Food,Rice,-4,60,180,puja.ghosh@gmail.com
+1962,Ananya Sen,2026-05-26,East,Food,Biscuits,9,50,450,ananya.sen@gmail.com
+1137,Amit Banerjee,2026-02-26,North,Furniture,Desk,3,6000,18000,amit.banerjee@gmail.com
+1562,Sneha Banerjee,2026/04/01,East,Clothing,t-shirt,8,800,6400,sneha.banerjee@gmail.com
+1932,Abhishek Sen,2026-01-06,east,Food,Sugar,7,55,385,abhishek.sen@gmail.com
+1081,Rahul Ghosh,2026-03-30,North,Furniture,Sofa,5,18000,90000,rahul.ghosh@gmail.com
+1206,Arjun Ghosh,2026-02-19,South,Clothing,Shoes,8,2200,17600,arjun.ghosh@gmail.com
+1035,Ravi Singh,2026-04-19,East,Clothing,Shirt,10,1200,12000,ravi.singh@gmail.com
+1943,Ankit Das,invalid-date,North,Furniture,Chair,10,1800,18000,ankit.das@gmail.com
+1776,Karan Kumar,2026-02-07,North,Furniture,Chair,10,1800,18000,karan.kumar@gmail.com
+1509,Sayan Paul,2026-04-13,South,Electronics,Mobile,-2,25000,50000,sayan.paul@gmail.com
+1428, Arjun Kumar ,2026-04-27,North,Furniture,Sofa,4,18000,72000,arjun.kumar@gmail.com
+1455,Meena Paul,2026-06-17,West,Stationery,Pencil,2,10,20,meena.paul@gmail.com
+1367,Arjun Singh,2026-06-05,East,Electronics,Laptop,6,55000,330000,arjun.singh@gmail.com
+1092,Sayan Kumar,2026-01-19,West,Food,Tea,4,250,1000,sayan.kumar@gmail.com
+1340,Ankit Das,2026-02-02,East,Electronics,Mobile,3,25000,,
+1898,Ananya Roy,2026-01-23,North,Electronics,Monitor,8,12000,96000,ananya.roy@gmail.com
+1565,Ananya Das,2026/04/06,North,Stationery,Pen,-1,20,100,ananya.das@gmail.com
+1346,Vikash Banerjee,2026-06-14,East,Furniture,Desk,5,6000,30000,vikash.banerjee@gmail.com
+1777,Moumita Singh,2026-03-22,north,Electronics,Mobile,3,25000,75000,moumita.singh@gmail.com
+1242,Rahul Paul,2026-01-27,North, Furniture ,Shelf,1,3500,3500,rahul.paul@gmail.com
+1014, Arjun Banerjee ,2026-06-08,North,Furniture,Chair,10,1800,18000,arjun.banerjee@gmail.com
+1316,Soumya Sen,2026-06-25,South,Clothing,Shirt,1,1200,1200,
+1601,Ananya Paul,2026-04-09,West,Stationery,Notebook,4,80,320,ananya.paul@gmail.com
+1388, Meena Paul ,2026-04-22,South,Electronics,Laptop,6,55000,330000,
+1274,Amit Dutta,2026-02-16,North,Clothing,Jacket,8,2500,20000,amit.dutta@gmail.com
+1167,Sneha Singh,2026-03-26,South,Stationery,Pen,10,20,200,sneha.singh@gmail.com
+1841,Ananya Singh,2026-01-26,West,Electronics,Mobile,1,25000,25000,ananya.singh@gmail.com
+1320,Tanya Singh,2026-01-04,East,Furniture,Table,10,4500,,tanya.singh@gmail.com
+1647, Vikash Kumar ,2026-05-24,South,Furniture,Table,-1,4500,13500,vikash.kumar@gmail.com
+1819, Priya Dutta ,2026/04/30,West,Food,Tea,8,250,2000,priya.dutta@gmail.com
+1485,Vikash Sharma,2026-04-12,South, Clothing ,Shirt,1,1200,1200,vikash.sharma@gmail.com
+1514,Karan Dutta,2026-06-29,North,Food,Rice,5,60,300,karan.dutta@gmail.com
+1505,Moumita Dutta,2026-04-25,East,Clothing,Shoes,9,2200,19800,moumita.dutta@gmail.com
+1832,Arjun Singh,2026/04/20,West,Food,Rice,-1,60,360,arjun.singh@gmail.com
+1244,Ravi Paul,2026-02-09,EAST,Electronics,Headphones,5,1800,,
+1567,Rahul Ghosh,2026-04-20,West,Food,Sugar,4,55,220,rahul.ghosh@gmail.com
+1876,Meena Kumar,2026-05-28,East,Clothing,T-Shirt,10,800,8000,meena.kumar@gmail.com
+1563,Priya Roy,2026-02-16,West,Clothing,T-Shirt,2,800,1600,priya.roy@gmail.com
+1979,Ananya Singh,2026-05-23,North,Electronics,Laptop,6,55000,330000,ananya.singh@gmail.com
+1687,Amit Ghosh,2026-04-04,South,Furniture,Chair,9,1800,16200,
+1958,Priya Ghosh,2026-01-02,South,Stationery,Notebook,7,80,560,
+1190,Puja Singh,2026-02-01,West,Electronics,Laptop,2,55000,110000,puja.singh@gmail.com
+1783,Soumya Singh,,North,Stationery,Pencil,5,10,50,soumya.singh@gmail.com
+1976,Amit Ghosh,2026-04-13,South,Stationery,Marker,9,40,360,amit.ghosh@gmail.com
+1700,Sayan Roy,2026-03-04,South,Food,Biscuits,6,50,300,sayan.roy@gmail.com
+1476,Rohit Roy,2026-02-01,WEST,Clothing,T-Shirt,9,800,7200,rohit.roy@gmail.com
+1682, Vikash Sen ,2026-06-07,North,Stationery,Notebook,6,,480,vikash.sen@gmail.com
+1511,Riya Sharma,2026-04-20,North,Stationery,Pen,5,20,100,riya.sharma@gmail.com
+1059,Amit Singh,2026-04-03,West,Furniture,Shelf,2,3500,7000,amit.singh@gmail.com
+1475,Soumya Kumar,,North, Electronics ,Monitor,7,12000,84000,soumya.kumar@gmail.com
+1561,Arjun Sharma,2026-01-07,North,Furniture,Desk,5,6000,30000,arjun.sharma@gmail.com
+1857,Ananya Roy,2026-05-10,West,Stationery,File,-5,35,245,ananya.roy@gmail.com
+1748, Ankit Paul ,2026-04-06,North,Clothing,Jeans,5,1800,9000,
+1253,Soumya Dutta,2026-05-22,West,Electronics,Monitor,7,12000,,soumya.dutta@gmail.com
+1022,Amit Ghosh,2026-06-19,East,Clothing,Shirt,7,1200,8400,amit.ghosh@gmail.com
+1314,Rahul Roy,2026-06-30,North,Furniture,Chair,1,1800,1800,rahul.roy@gmail.com
+1460,Riya Banerjee,2026-04-24,South,Electronics,Tablet,8,30000,240000, riya.banerjee@gmail.com 
+1161,Ananya Singh,2026-01-23,North,Food,Tea,7,250,1750,ananya.singh@gmail.com
+1277,Abhishek Paul,2026-01-21,WEST,Clothing,Shoes,8,2200,17600,abhishek.paul@gmail.com
+1956,Ravi Das,2026-01-01,North,Food,Biscuits,10,,500,
+1192,Amit Sen,2026-02-08,West,Clothing,T-Shirt,1,800,,amit.sen@gmail.com
+1386,Sneha Roy,2026-03-27,East,Furniture,Shelf,8,3500,28000,
+1806, Rohit Roy ,2026-05-16,West,Stationery,Pencil,10,10,100, rohit.roy@gmail.com 
+1414,Karan Banerjee,2026-05-12,West,Electronics,Laptop,3,55000,,karan.banerjee@gmail.com
+1492,Tanya Roy,,South,Clothing,Shirt,6,1200,,tanya.roy@gmail.com
+1344,Karan Singh,2026-06-25,East,Furniture,Chair,7,1800,12600,karan.singh@gmail.com
+1770,Priya Das,2026/06/13,South,Furniture,Table,7,4500,31500,priya.das@gmail.com
+1309,Amit Singh,2026-06-15,East,Food,Sugar,6,55,330,amit.singh@gmail.com
+1662,Neha Dutta,2026-01-31,West,Clothing,Jacket,10,2500,25000,neha.dutta@gmail.com
+1131,Rahul Sen,2026-02-26,East, Food ,Tea,2,250,500,rahul.sen@gmail.com
+1664,Rohit Das,2026-06-24,SOUTH,Stationery,Pen,7,20,140,rohit.das@gmail.com
+1872,Tanya Singh,2026-03-08,East,Clothing,Jeans,6,1800,10800,tanya.singh@gmail.com
+1100,Soumya Das,2026-05-23,East,Food,Sugar,8,55,440,soumya.das@gmail.com
+1373,Karan Ghosh,2026-01-19,North,Clothing,Jeans,-2,1800,1800,karan.ghosh@gmail.com
+1088,Arjun Sen,2026-02-05,South,Clothing,Shirt,9,1200,10800,arjun.sen@gmail.com
+1459,Sayan Ghosh,2026-06-23,West,Clothing,T-Shirt,9,800,7200,sayan.ghosh@gmail.com
+1331,Sneha Kumar,2026-04-13,North,Electronics,Mobile,9,25000,225000,sneha.kumar@gmail.com
+1215,Ravi Roy,2026-01-26,south,Stationery,File,6,35,210,ravi.roy@gmail.com
+1467,Puja Roy,2026-01-19,South,Furniture,Chair,5,1800,9000,puja.roy@gmail.com
+1122,Priya Sen,2026-05-20,EAST,Stationery,File,5,35,175,priya.sen@gmail.com
+1615,Ankit Ghosh,2026-04-13,South,Clothing,T-Shirt,7,800,5600,ankit.ghosh@gmail.com
+1021,Moumita Paul,2026-03-22,East,Food,Rice,2,60,120,
+1701,Ananya Singh,2026-06-09,East,Clothing,Jacket,2,,5000,ananya.singh@gmail.com
+1072,Abhishek Dutta,2026-04-04,South,Electronics,Mobile,8,25000,200000,abhishek.dutta@gmail.com
+1107,Arjun Das,2026-05-03,South,Food,Biscuits,10,50,500,arjun.das@gmail.com
+1271,Riya Das,2026-01-09,South,Furniture,Desk,3,6000,18000,riya.das@gmail.com
+1861,Meena Dutta,2026-01-27,East,Stationery,Pen,4,20,80,meena.dutta@gmail.com
